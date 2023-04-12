@@ -1,0 +1,3045 @@
+# depslib dependency file v1.0
+1584342700 source:c:\users\dell\desktop\第一关1\sourcecode\icon.rc
+
+1584501644 source:c:\users\dell\desktop\第一关1\sourcecode\src\main.cpp
+	"CommonAPI.h"
+	"scenseX.h"
+
+1584342700 c:\users\dell\desktop\第一关1\sourcecode\header\commonapi.h
+	<windows.h>
+
+1584609706 c:\users\dell\desktop\第一关1\sourcecode\header\scensex.h
+	<Windows.h>
+
+1584609602 source:c:\users\dell\desktop\第一关1\sourcecode\src\scense2.cpp
+	"CommonAPI.h"
+	"scense0.h"
+
+1584545476 c:\users\dell\desktop\第一关1\sourcecode\header\scense0.h
+	"scenseX.h"
+
+1584609602 source:c:\users\dell\desktop\第一关1\sourcecode\src\scense3.cpp
+	"CommonAPI.h"
+	"scense0.h"
+
+1584609602 source:c:\users\dell\desktop\第一关1\sourcecode\src\scense4.cpp
+	"CommonAPI.h"
+	"scense0.h"
+
+1584609602 source:c:\users\dell\desktop\第一关1\sourcecode\src\scensex.cpp
+	"scense0.h"
+	"scenseX.h"
+	<Stdio.h>
+	"CommonAPI.h"
+	"string.h"
+
+1584782365 source:c:\users\dell\desktop\第一关1\sourcecode\src\scense1.cpp
+	"CommonAPI.h"
+	"scense0.h"
+
+1584342700 source:c:\users\86178\desktop\第一关2\sourcecode\icon.rc
+
+1584501642 source:c:\users\86178\desktop\第一关2\sourcecode\src\main.cpp
+	"CommonAPI.h"
+	"scenseX.h"
+
+1584342699 c:\users\86178\desktop\第一关2\sourcecode\header\commonapi.h
+	<windows.h>
+
+1584763071 c:\users\86178\desktop\第一关2\sourcecode\header\scensex.h
+	<Windows.h>
+
+1584763429 source:c:\users\86178\desktop\第一关2\sourcecode\src\scense0.cpp
+
+1584849144 source:c:\users\86178\desktop\第一关2\sourcecode\src\scense2.cpp
+	"CommonAPI.h"
+	"scense0.h"
+
+1584764237 c:\users\86178\desktop\第一关2\sourcecode\header\scense0.h
+	"scenseX.h"
+
+1584849147 source:c:\users\86178\desktop\第一关2\sourcecode\src\scense3.cpp
+	"CommonAPI.h"
+	"scense0.h"
+
+1584849150 source:c:\users\86178\desktop\第一关2\sourcecode\src\scense4.cpp
+	"CommonAPI.h"
+	"scense0.h"
+
+1584849385 source:c:\users\86178\desktop\第一关2\sourcecode\src\scensex.cpp
+	"scense0.h"
+	"scenseX.h"
+	<Stdio.h>
+	"CommonAPI.h"
+	"string.h"
+
+1584849263 source:c:\users\86178\desktop\第一关2\sourcecode\src\scense1.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	<stdio.h>
+
+1584342700 source:c:\users\86136\desktop\第一关2\sourcecode\icon.rc
+
+1584501642 source:c:\users\86136\desktop\第一关2\sourcecode\src\main.cpp
+	"CommonAPI.h"
+	"scenseX.h"
+
+1584342699 c:\users\86136\desktop\第一关2\sourcecode\header\commonapi.h
+	<windows.h>
+
+1584763071 c:\users\86136\desktop\第一关2\sourcecode\header\scensex.h
+	<Windows.h>
+
+1584763429 source:c:\users\86136\desktop\第一关2\sourcecode\src\scense0.cpp
+
+1584849263 source:c:\users\86136\desktop\第一关2\sourcecode\src\scense1.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	<stdio.h>
+
+1584764237 c:\users\86136\desktop\第一关2\sourcecode\header\scense0.h
+	"scenseX.h"
+
+1584849144 source:c:\users\86136\desktop\第一关2\sourcecode\src\scense2.cpp
+	"CommonAPI.h"
+	"scense0.h"
+
+1584849147 source:c:\users\86136\desktop\第一关2\sourcecode\src\scense3.cpp
+	"CommonAPI.h"
+	"scense0.h"
+
+1584849150 source:c:\users\86136\desktop\第一关2\sourcecode\src\scense4.cpp
+	"CommonAPI.h"
+	"scense0.h"
+
+1584883868 source:c:\users\86136\desktop\第一关2\sourcecode\src\scensex.cpp
+	"scense0.h"
+	"scenseX.h"
+	<Stdio.h>
+	"CommonAPI.h"
+	"string.h"
+
+1584342700 source:c:\users\86136\desktop\初始化+第一关\sourcecode\icon.rc
+
+1584501642 source:c:\users\86136\desktop\初始化+第一关\sourcecode\src\main.cpp
+	"CommonAPI.h"
+	"scenseX.h"
+
+1584342699 c:\users\86136\desktop\初始化+第一关\sourcecode\header\commonapi.h
+	<windows.h>
+
+1584763071 c:\users\86136\desktop\初始化+第一关\sourcecode\header\scensex.h
+	<Windows.h>
+
+1584763429 source:c:\users\86136\desktop\初始化+第一关\sourcecode\src\scense0.cpp
+
+1584849263 source:c:\users\86136\desktop\初始化+第一关\sourcecode\src\scense1.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	<stdio.h>
+
+1584764237 c:\users\86136\desktop\初始化+第一关\sourcecode\header\scense0.h
+	"scenseX.h"
+
+1584849144 source:c:\users\86136\desktop\初始化+第一关\sourcecode\src\scense2.cpp
+	"CommonAPI.h"
+	"scense0.h"
+
+1584849147 source:c:\users\86136\desktop\初始化+第一关\sourcecode\src\scense3.cpp
+	"CommonAPI.h"
+	"scense0.h"
+
+1584849150 source:c:\users\86136\desktop\初始化+第一关\sourcecode\src\scense4.cpp
+	"CommonAPI.h"
+	"scense0.h"
+
+1584949161 source:c:\users\86136\desktop\初始化+第一关\sourcecode\src\scensex.cpp
+	"scense0.h"
+	"scenseX.h"
+	<Stdio.h>
+	"CommonAPI.h"
+	"string.h"
+
+1585106809 source:c:\users\86178\desktop\初始化+第一关3\sourcecode\icon.rc
+
+1585106809 source:c:\users\86178\desktop\初始化+第一关3\sourcecode\src\main.cpp
+	"CommonAPI.h"
+	"scenseX.h"
+
+1585106809 c:\users\86178\desktop\初始化+第一关3\sourcecode\header\commonapi.h
+	<windows.h>
+
+1585125128 c:\users\86178\desktop\初始化+第一关3\sourcecode\header\scensex.h
+	<Windows.h>
+
+1585106809 source:c:\users\86178\desktop\初始化+第一关3\sourcecode\src\scense0.cpp
+
+1585106809 source:c:\users\86178\desktop\初始化+第一关3\sourcecode\src\scense3.cpp
+	"CommonAPI.h"
+	"scense0.h"
+
+1585125172 c:\users\86178\desktop\初始化+第一关3\sourcecode\header\scense0.h
+	"scenseX.h"
+
+1585106809 source:c:\users\86178\desktop\初始化+第一关3\sourcecode\src\scense4.cpp
+	"CommonAPI.h"
+	"scense0.h"
+
+1585123592 source:c:\users\86178\desktop\初始化+第一关3\sourcecode\src\scensex.cpp
+	"scense0.h"
+	"scenseX.h"
+	<Stdio.h>
+	"CommonAPI.h"
+	"string.h"
+
+1585107383 source:c:\users\86178\desktop\初始化+第一关3\sourcecode\src\scense1.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	<stdio.h>
+
+1585125221 source:c:\users\86178\desktop\初始化+第一关3\sourcecode\src\scense2.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	<stdio.h>
+
+1585106809 source:c:\users\86178\desktop\history\初始第一关\初始化+第一关3\sourcecode\icon.rc
+
+1585106809 source:c:\users\86178\desktop\history\初始第一关\初始化+第一关3\sourcecode\src\main.cpp
+	"CommonAPI.h"
+	"scenseX.h"
+
+1585106809 c:\users\86178\desktop\history\初始第一关\初始化+第一关3\sourcecode\header\commonapi.h
+	<windows.h>
+
+1585125128 c:\users\86178\desktop\history\初始第一关\初始化+第一关3\sourcecode\header\scensex.h
+	<Windows.h>
+
+1585106809 source:c:\users\86178\desktop\history\初始第一关\初始化+第一关3\sourcecode\src\scense0.cpp
+
+1585107383 source:c:\users\86178\desktop\history\初始第一关\初始化+第一关3\sourcecode\src\scense1.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	<stdio.h>
+
+1585125172 c:\users\86178\desktop\history\初始第一关\初始化+第一关3\sourcecode\header\scense0.h
+	"scenseX.h"
+
+1585125221 source:c:\users\86178\desktop\history\初始第一关\初始化+第一关3\sourcecode\src\scense2.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	<stdio.h>
+
+1585106809 source:c:\users\86178\desktop\history\初始第一关\初始化+第一关3\sourcecode\src\scense3.cpp
+	"CommonAPI.h"
+	"scense0.h"
+
+1585106809 source:c:\users\86178\desktop\history\初始第一关\初始化+第一关3\sourcecode\src\scense4.cpp
+	"CommonAPI.h"
+	"scense0.h"
+
+1585125792 source:c:\users\86178\desktop\history\初始第一关\初始化+第一关3\sourcecode\src\scensex.cpp
+	"scense0.h"
+	"scenseX.h"
+	<Stdio.h>
+	"CommonAPI.h"
+	"string.h"
+
+1585106810 source:c:\users\dell\desktop\初始化+第一关+第二关\sourcecode\icon.rc
+
+1585106810 source:c:\users\dell\desktop\初始化+第一关+第二关\sourcecode\src\main.cpp
+	"CommonAPI.h"
+	"scenseX.h"
+
+1585106810 c:\users\dell\desktop\初始化+第一关+第二关\sourcecode\header\commonapi.h
+	<windows.h>
+
+1585320234 c:\users\dell\desktop\初始化+第一关+第二关\sourcecode\header\scensex.h
+	<Windows.h>
+
+1585106810 source:c:\users\dell\desktop\初始化+第一关+第二关\sourcecode\src\scense0.cpp
+
+1585107384 source:c:\users\dell\desktop\初始化+第一关+第二关\sourcecode\src\scense1.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	<stdio.h>
+
+1585125174 c:\users\dell\desktop\初始化+第一关+第二关\sourcecode\header\scense0.h
+	"scenseX.h"
+
+1585323971 source:c:\users\dell\desktop\初始化+第一关+第二关\sourcecode\src\scense2.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	<stdio.h>
+
+1585106810 source:c:\users\dell\desktop\初始化+第一关+第二关\sourcecode\src\scense3.cpp
+	"CommonAPI.h"
+	"scense0.h"
+
+1585106810 source:c:\users\dell\desktop\初始化+第一关+第二关\sourcecode\src\scense4.cpp
+	"CommonAPI.h"
+	"scense0.h"
+
+1585125794 source:c:\users\dell\desktop\初始化+第一关+第二关\sourcecode\src\scensex.cpp
+	"scense0.h"
+	"scenseX.h"
+	<Stdio.h>
+	"CommonAPI.h"
+	"string.h"
+
+1585106810 source:c:\users\86178\desktop\初始化+第一关+第二关2\sourcecode\icon.rc
+
+1585106810 source:c:\users\86178\desktop\初始化+第一关+第二关2\sourcecode\src\main.cpp
+	"CommonAPI.h"
+	"scenseX.h"
+
+1585106810 c:\users\86178\desktop\初始化+第一关+第二关2\sourcecode\header\commonapi.h
+	<windows.h>
+
+1585365402 c:\users\86178\desktop\初始化+第一关+第二关2\sourcecode\header\scensex.h
+	<Windows.h>
+
+1585106810 source:c:\users\86178\desktop\初始化+第一关+第二关2\sourcecode\src\scense0.cpp
+
+1585365096 source:c:\users\86178\desktop\初始化+第一关+第二关2\sourcecode\src\scense1.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	<stdio.h>
+
+1585365402 c:\users\86178\desktop\初始化+第一关+第二关2\sourcecode\header\scense0.h
+	"scenseX.h"
+
+1585365402 source:c:\users\86178\desktop\初始化+第一关+第二关2\sourcecode\src\scense2.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	<stdio.h>
+
+1585106810 source:c:\users\86178\desktop\初始化+第一关+第二关2\sourcecode\src\scense3.cpp
+	"CommonAPI.h"
+	"scense0.h"
+
+1585106810 source:c:\users\86178\desktop\初始化+第一关+第二关2\sourcecode\src\scense4.cpp
+	"CommonAPI.h"
+	"scense0.h"
+
+1585365439 source:c:\users\86178\desktop\初始化+第一关+第二关2\sourcecode\src\scensex.cpp
+	"scense0.h"
+	"scenseX.h"
+	<Stdio.h>
+	"CommonAPI.h"
+	"string.h"
+
+1585106810 source:c:\users\86136\desktop\初始化+第一关+第二关2\sourcecode\icon.rc
+
+1585106810 source:c:\users\86136\desktop\初始化+第一关+第二关2\sourcecode\src\main.cpp
+	"CommonAPI.h"
+	"scenseX.h"
+
+1585106810 c:\users\86136\desktop\初始化+第一关+第二关2\sourcecode\header\commonapi.h
+	<windows.h>
+
+1585365402 c:\users\86136\desktop\初始化+第一关+第二关2\sourcecode\header\scensex.h
+	<Windows.h>
+
+1585106810 source:c:\users\86136\desktop\初始化+第一关+第二关2\sourcecode\src\scense0.cpp
+
+1585365096 source:c:\users\86136\desktop\初始化+第一关+第二关2\sourcecode\src\scense1.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	<stdio.h>
+
+1585365402 c:\users\86136\desktop\初始化+第一关+第二关2\sourcecode\header\scense0.h
+	"scenseX.h"
+
+1585365496 source:c:\users\86136\desktop\初始化+第一关+第二关2\sourcecode\src\scense2.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	<stdio.h>
+
+1585106810 source:c:\users\86136\desktop\初始化+第一关+第二关2\sourcecode\src\scense3.cpp
+	"CommonAPI.h"
+	"scense0.h"
+
+1585106810 source:c:\users\86136\desktop\初始化+第一关+第二关2\sourcecode\src\scense4.cpp
+	"CommonAPI.h"
+	"scense0.h"
+
+1585106810 source:c:\users\86136\desktop\初始化+第一关+第二关long\sourcecode\icon.rc
+
+1585106810 source:c:\users\86136\desktop\初始化+第一关+第二关long\sourcecode\src\main.cpp
+	"CommonAPI.h"
+	"scenseX.h"
+
+1585106810 c:\users\86136\desktop\初始化+第一关+第二关long\sourcecode\header\commonapi.h
+	<windows.h>
+
+1585365402 c:\users\86136\desktop\初始化+第一关+第二关long\sourcecode\header\scensex.h
+	<Windows.h>
+
+1585106810 source:c:\users\86136\desktop\初始化+第一关+第二关long\sourcecode\src\scense0.cpp
+
+1585365496 source:c:\users\86136\desktop\初始化+第一关+第二关long\sourcecode\src\scense2.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	<stdio.h>
+
+1585365402 c:\users\86136\desktop\初始化+第一关+第二关long\sourcecode\header\scense0.h
+	"scenseX.h"
+
+1585106810 source:c:\users\86136\desktop\初始化+第一关+第二关long\sourcecode\src\scense3.cpp
+	"CommonAPI.h"
+	"scense0.h"
+
+1585106810 source:c:\users\86136\desktop\初始化+第一关+第二关long\sourcecode\src\scense4.cpp
+	"CommonAPI.h"
+	"scense0.h"
+
+1585368140 source:c:\users\86136\desktop\初始化+第一关+第二关long\sourcecode\src\scensex.cpp
+	"scense0.h"
+	"scenseX.h"
+	<Stdio.h>
+	"CommonAPI.h"
+	"string.h"
+
+1585368095 source:c:\users\86136\desktop\初始化+第一关+第二关long\sourcecode\src\scense1.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	<stdio.h>
+
+1585106810 source:c:\users\86178\desktop\初始化+第一关+第二关c2\sourcecode\icon.rc
+
+1585106810 source:c:\users\86178\desktop\初始化+第一关+第二关c2\sourcecode\src\main.cpp
+	"CommonAPI.h"
+	"scenseX.h"
+
+1585106810 c:\users\86178\desktop\初始化+第一关+第二关c2\sourcecode\header\commonapi.h
+	<windows.h>
+
+1585368945 c:\users\86178\desktop\初始化+第一关+第二关c2\sourcecode\header\scensex.h
+	<Windows.h>
+
+1585106810 source:c:\users\86178\desktop\初始化+第一关+第二关c2\sourcecode\src\scense0.cpp
+
+1585368851 source:c:\users\86178\desktop\初始化+第一关+第二关c2\sourcecode\src\scense1.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	<stdio.h>
+
+1585368851 c:\users\86178\desktop\初始化+第一关+第二关c2\sourcecode\header\scense0.h
+	"scenseX.h"
+
+1585365496 source:c:\users\86178\desktop\初始化+第一关+第二关c2\sourcecode\src\scense2.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	<stdio.h>
+
+1585106810 source:c:\users\86178\desktop\初始化+第一关+第二关c2\sourcecode\src\scense3.cpp
+	"CommonAPI.h"
+	"scense0.h"
+
+1585106810 source:c:\users\86178\desktop\初始化+第一关+第二关c2\sourcecode\src\scense4.cpp
+	"CommonAPI.h"
+	"scense0.h"
+
+1585106810 source:c:\users\dell\desktop\初始化+第一关+第二关g3\sourcecode\icon.rc
+
+1585106810 source:c:\users\dell\desktop\初始化+第一关+第二关g3\sourcecode\src\main.cpp
+	"CommonAPI.h"
+	"scenseX.h"
+
+1585106810 c:\users\dell\desktop\初始化+第一关+第二关g3\sourcecode\header\commonapi.h
+	<windows.h>
+
+1585368946 c:\users\dell\desktop\初始化+第一关+第二关g3\sourcecode\header\scensex.h
+	<Windows.h>
+
+1585106810 source:c:\users\dell\desktop\初始化+第一关+第二关g3\sourcecode\src\scense0.cpp
+
+1585379469 source:c:\users\dell\desktop\初始化+第一关+第二关g3\sourcecode\src\scense2.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	<stdio.h>
+
+1585368852 c:\users\dell\desktop\初始化+第一关+第二关g3\sourcecode\header\scense0.h
+	"scenseX.h"
+
+1585106810 source:c:\users\dell\desktop\初始化+第一关+第二关g3\sourcecode\src\scense3.cpp
+	"CommonAPI.h"
+	"scense0.h"
+
+1585106810 source:c:\users\dell\desktop\初始化+第一关+第二关g3\sourcecode\src\scense4.cpp
+	"CommonAPI.h"
+	"scense0.h"
+
+1585369238 source:c:\users\dell\desktop\初始化+第一关+第二关g3\sourcecode\src\scense1.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	<stdio.h>
+
+1585377542 source:c:\users\dell\desktop\初始化+第一关+第二关g3\sourcecode\src\scensex.cpp
+	"scense0.h"
+	"scenseX.h"
+	<Stdio.h>
+	"CommonAPI.h"
+	"string.h"
+
+1585106810 source:c:\users\86178\desktop\初始化+第一关+第二关g3\sourcecode\icon.rc
+
+1585106810 source:c:\users\86178\desktop\初始化+第一关+第二关g3\sourcecode\src\main.cpp
+	"CommonAPI.h"
+	"scenseX.h"
+
+1585106810 c:\users\86178\desktop\初始化+第一关+第二关g3\sourcecode\header\commonapi.h
+	<windows.h>
+
+1585368946 c:\users\86178\desktop\初始化+第一关+第二关g3\sourcecode\header\scensex.h
+	<Windows.h>
+
+1585106810 source:c:\users\86178\desktop\初始化+第一关+第二关g3\sourcecode\src\scense0.cpp
+
+1585379650 source:c:\users\86178\desktop\初始化+第一关+第二关g3\sourcecode\src\scense1.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	<stdio.h>
+
+1585555456 c:\users\86178\desktop\初始化+第一关+第二关g3\sourcecode\header\scense0.h
+	"scenseX.h"
+
+1585555957 source:c:\users\86178\desktop\初始化+第一关+第二关g3\sourcecode\src\scense2.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	<stdio.h>
+
+1585106810 source:c:\users\86178\desktop\初始化+第一关+第二关g3\sourcecode\src\scense3.cpp
+	"CommonAPI.h"
+	"scense0.h"
+
+1585106810 source:c:\users\86178\desktop\初始化+第一关+第二关g3\sourcecode\src\scense4.cpp
+	"CommonAPI.h"
+	"scense0.h"
+
+1585555711 source:c:\users\86178\desktop\初始化+第一关+第二关g3\sourcecode\src\scensex.cpp
+	"scense0.h"
+	"scenseX.h"
+	<Stdio.h>
+	"CommonAPI.h"
+	"string.h"
+
+1585106810 source:c:\users\86178\desktop\tankwar\初始化+第一关+第二关g3\sourcecode\icon.rc
+
+1585106810 source:c:\users\86178\desktop\tankwar\初始化+第一关+第二关g3\sourcecode\src\main.cpp
+	"CommonAPI.h"
+	"scenseX.h"
+
+1585106810 c:\users\86178\desktop\tankwar\初始化+第一关+第二关g3\sourcecode\header\commonapi.h
+	<windows.h>
+
+1585368946 c:\users\86178\desktop\tankwar\初始化+第一关+第二关g3\sourcecode\header\scensex.h
+	<Windows.h>
+
+1585106810 source:c:\users\86178\desktop\tankwar\初始化+第一关+第二关g3\sourcecode\src\scense0.cpp
+
+1585557516 source:c:\users\86178\desktop\tankwar\初始化+第一关+第二关g3\sourcecode\src\scense1.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	<stdio.h>
+
+1585557421 c:\users\86178\desktop\tankwar\初始化+第一关+第二关g3\sourcecode\header\scense0.h
+	"scenseX.h"
+
+1585555957 source:c:\users\86178\desktop\tankwar\初始化+第一关+第二关g3\sourcecode\src\scense2.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	<stdio.h>
+
+1585106810 source:c:\users\86178\desktop\tankwar\初始化+第一关+第二关g3\sourcecode\src\scense3.cpp
+	"CommonAPI.h"
+	"scense0.h"
+
+1585106810 source:c:\users\86178\desktop\tankwar\初始化+第一关+第二关g3\sourcecode\src\scense4.cpp
+	"CommonAPI.h"
+	"scense0.h"
+
+1585557421 source:c:\users\86178\desktop\tankwar\初始化+第一关+第二关g3\sourcecode\src\scensex.cpp
+	"scense0.h"
+	"scenseX.h"
+	<Stdio.h>
+	"CommonAPI.h"
+	"string.h"
+
+1585106810 source:c:\users\86136\desktop\初始化+第一关+第二关k333\sourcecode\icon.rc
+
+1585106810 source:c:\users\86136\desktop\初始化+第一关+第二关k333\sourcecode\src\main.cpp
+	"CommonAPI.h"
+	"scenseX.h"
+
+1585106810 c:\users\86136\desktop\初始化+第一关+第二关k333\sourcecode\header\commonapi.h
+	<windows.h>
+
+1585368946 c:\users\86136\desktop\初始化+第一关+第二关k333\sourcecode\header\scensex.h
+	<Windows.h>
+
+1585106810 source:c:\users\86136\desktop\初始化+第一关+第二关k333\sourcecode\src\scense0.cpp
+
+1585580885 source:c:\users\86136\desktop\初始化+第一关+第二关k333\sourcecode\src\scense1.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	<stdio.h>
+
+1585557421 c:\users\86136\desktop\初始化+第一关+第二关k333\sourcecode\header\scense0.h
+	"scenseX.h"
+
+1585580885 source:c:\users\86136\desktop\初始化+第一关+第二关k333\sourcecode\src\scense2.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	<stdio.h>
+
+1585106810 source:c:\users\86136\desktop\初始化+第一关+第二关k333\sourcecode\src\scense3.cpp
+	"CommonAPI.h"
+	"scense0.h"
+
+1585106810 source:c:\users\86136\desktop\初始化+第一关+第二关k333\sourcecode\src\scense4.cpp
+	"CommonAPI.h"
+	"scense0.h"
+
+1585580674 source:c:\users\86136\desktop\初始化+第一关+第二关k333\sourcecode\src\scensex.cpp
+	"scense0.h"
+	"scenseX.h"
+	<Stdio.h>
+	"CommonAPI.h"
+	"string.h"
+
+1585106810 source:c:\users\86178\desktop\初始化+第一关+第二关lll\sourcecode\icon.rc
+
+1585106810 source:c:\users\86178\desktop\初始化+第一关+第二关lll\sourcecode\src\main.cpp
+	"CommonAPI.h"
+	"scenseX.h"
+
+1585106810 c:\users\86178\desktop\初始化+第一关+第二关lll\sourcecode\header\commonapi.h
+	<windows.h>
+
+1585368946 c:\users\86178\desktop\初始化+第一关+第二关lll\sourcecode\header\scensex.h
+	<Windows.h>
+
+1585106810 source:c:\users\86178\desktop\初始化+第一关+第二关lll\sourcecode\src\scense0.cpp
+
+1585658515 source:c:\users\86178\desktop\初始化+第一关+第二关lll\sourcecode\src\scense1.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	<stdio.h>
+
+1585656996 c:\users\86178\desktop\初始化+第一关+第二关lll\sourcecode\header\scense0.h
+	"scenseX.h"
+
+1585106810 source:c:\users\86178\desktop\初始化+第一关+第二关lll\sourcecode\src\scense3.cpp
+	"CommonAPI.h"
+	"scense0.h"
+
+1585106810 source:c:\users\86178\desktop\初始化+第一关+第二关lll\sourcecode\src\scense4.cpp
+	"CommonAPI.h"
+	"scense0.h"
+
+1585658477 source:c:\users\86178\desktop\初始化+第一关+第二关lll\sourcecode\src\scensex.cpp
+	"scense0.h"
+	"scenseX.h"
+	<Stdio.h>
+	"CommonAPI.h"
+	"string.h"
+
+1585658460 source:c:\users\86178\desktop\初始化+第一关+第二关lll\sourcecode\src\scense2.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	<stdio.h>
+
+1585106810 source:c:\users\86178\desktop\初始化+第一关+第二关hhhh\sourcecode\icon.rc
+
+1585106810 source:c:\users\86178\desktop\初始化+第一关+第二关hhhh\sourcecode\src\main.cpp
+	"CommonAPI.h"
+	"scenseX.h"
+
+1585106810 c:\users\86178\desktop\初始化+第一关+第二关hhhh\sourcecode\header\commonapi.h
+	<windows.h>
+
+1585729886 c:\users\86178\desktop\初始化+第一关+第二关hhhh\sourcecode\header\scensex.h
+	<Windows.h>
+
+1585106810 source:c:\users\86178\desktop\初始化+第一关+第二关hhhh\sourcecode\src\scense0.cpp
+
+1585658516 source:c:\users\86178\desktop\初始化+第一关+第二关hhhh\sourcecode\src\scense1.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	<stdio.h>
+
+1585729886 c:\users\86178\desktop\初始化+第一关+第二关hhhh\sourcecode\header\scense0.h
+	"scenseX.h"
+
+1585658462 source:c:\users\86178\desktop\初始化+第一关+第二关hhhh\sourcecode\src\scense2.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	<stdio.h>
+
+1585730014 source:c:\users\86178\desktop\初始化+第一关+第二关hhhh\sourcecode\src\scense3.cpp
+	"CommonAPI.h"
+	"scense0.h"
+
+1585106810 source:c:\users\86178\desktop\初始化+第一关+第二关hhhh\sourcecode\src\scense4.cpp
+	"CommonAPI.h"
+	"scense0.h"
+
+1585729886 source:c:\users\86178\desktop\初始化+第一关+第二关hhhh\sourcecode\src\scensex.cpp
+	"scense0.h"
+	"scenseX.h"
+	<Stdio.h>
+	"CommonAPI.h"
+	"string.h"
+
+1585106810 source:c:\users\86178\desktop\初始化+第一关+第二关oooo\sourcecode\icon.rc
+
+1585106810 source:c:\users\86178\desktop\初始化+第一关+第二关oooo\sourcecode\src\main.cpp
+	"CommonAPI.h"
+	"scenseX.h"
+
+1585106810 c:\users\86178\desktop\初始化+第一关+第二关oooo\sourcecode\header\commonapi.h
+	<windows.h>
+
+1585729886 c:\users\86178\desktop\初始化+第一关+第二关oooo\sourcecode\header\scensex.h
+	<Windows.h>
+
+1585106810 source:c:\users\86178\desktop\初始化+第一关+第二关oooo\sourcecode\src\scense0.cpp
+
+1585658516 source:c:\users\86178\desktop\初始化+第一关+第二关oooo\sourcecode\src\scense1.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	<stdio.h>
+
+1585729886 c:\users\86178\desktop\初始化+第一关+第二关oooo\sourcecode\header\scense0.h
+	"scenseX.h"
+
+1585658462 source:c:\users\86178\desktop\初始化+第一关+第二关oooo\sourcecode\src\scense2.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	<stdio.h>
+
+1585730014 source:c:\users\86178\desktop\初始化+第一关+第二关oooo\sourcecode\src\scense3.cpp
+	"CommonAPI.h"
+	"scense0.h"
+
+1585106810 source:c:\users\86178\desktop\初始化+第一关+第二关oooo\sourcecode\src\scense4.cpp
+	"CommonAPI.h"
+	"scense0.h"
+
+1585106810 source:c:\users\86178\desktop\初始化+第一关+第二关tryo\sourcecode\icon.rc
+
+1585106810 source:c:\users\86178\desktop\初始化+第一关+第二关tryo\sourcecode\src\main.cpp
+	"CommonAPI.h"
+	"scenseX.h"
+
+1585106810 c:\users\86178\desktop\初始化+第一关+第二关tryo\sourcecode\header\commonapi.h
+	<windows.h>
+
+1586155167 c:\users\86178\desktop\初始化+第一关+第二关tryo\sourcecode\header\scensex.h
+	<Windows.h>
+
+1585106810 source:c:\users\86178\desktop\初始化+第一关+第二关tryo\sourcecode\src\scense0.cpp
+
+1586155011 source:c:\users\86178\desktop\初始化+第一关+第二关tryo\sourcecode\src\scense1.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	<stdio.h>
+
+1585729886 c:\users\86178\desktop\初始化+第一关+第二关tryo\sourcecode\header\scense0.h
+	"scenseX.h"
+
+1585658462 source:c:\users\86178\desktop\初始化+第一关+第二关tryo\sourcecode\src\scense2.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	<stdio.h>
+
+1586155149 source:c:\users\86178\desktop\初始化+第一关+第二关tryo\sourcecode\src\scense3.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	<stdio.h>
+
+1586155023 source:c:\users\86178\desktop\初始化+第一关+第二关tryo\sourcecode\src\scense4.cpp
+	"CommonAPI.h"
+	"scense0.h"
+
+1586154939 source:c:\users\86178\desktop\初始化+第一关+第二关tryo\sourcecode\src\scensex.cpp
+	"scense0.h"
+	"scenseX.h"
+	<Stdio.h>
+	"CommonAPI.h"
+	"string.h"
+
+1585106810 source:c:\users\dell\desktop\第三关2\sourcecode\icon.rc
+
+1585106810 source:c:\users\dell\desktop\第三关2\sourcecode\src\main.cpp
+	"CommonAPI.h"
+	"scenseX.h"
+
+1585106810 c:\users\dell\desktop\第三关2\sourcecode\header\commonapi.h
+	<windows.h>
+
+1586155180 c:\users\dell\desktop\第三关2\sourcecode\header\scensex.h
+	<Windows.h>
+
+1585106810 source:c:\users\dell\desktop\第三关2\sourcecode\src\scense0.cpp
+
+1586155012 source:c:\users\dell\desktop\第三关2\sourcecode\src\scense1.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	<stdio.h>
+
+1585729888 c:\users\dell\desktop\第三关2\sourcecode\header\scense0.h
+	"scenseX.h"
+
+1585658462 source:c:\users\dell\desktop\第三关2\sourcecode\src\scense2.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	<stdio.h>
+
+1586155024 source:c:\users\dell\desktop\第三关2\sourcecode\src\scense4.cpp
+	"CommonAPI.h"
+	"scense0.h"
+
+1586157198 source:c:\users\dell\desktop\第三关2\sourcecode\src\scensex.cpp
+	"scense0.h"
+	"scenseX.h"
+	<Stdio.h>
+	"CommonAPI.h"
+	"string.h"
+
+1586158532 source:c:\users\dell\desktop\第三关2\sourcecode\src\scense3.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	<stdio.h>
+
+1585106810 source:c:\users\86178\desktop\第三关2\sourcecode\icon.rc
+
+1585106810 source:c:\users\86178\desktop\第三关2\sourcecode\src\main.cpp
+	"CommonAPI.h"
+	"scenseX.h"
+
+1585106810 c:\users\86178\desktop\第三关2\sourcecode\header\commonapi.h
+	<windows.h>
+
+1586264883 c:\users\86178\desktop\第三关2\sourcecode\header\scensex.h
+	<Windows.h>
+
+1585106810 source:c:\users\86178\desktop\第三关2\sourcecode\src\scense0.cpp
+
+1586155012 source:c:\users\86178\desktop\第三关2\sourcecode\src\scense1.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	<stdio.h>
+
+1586264661 c:\users\86178\desktop\第三关2\sourcecode\header\scense0.h
+	"scenseX.h"
+
+1585658462 source:c:\users\86178\desktop\第三关2\sourcecode\src\scense2.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	<stdio.h>
+
+1586160546 source:c:\users\86178\desktop\第三关2\sourcecode\src\scense3.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	<stdio.h>
+
+1586155024 source:c:\users\86178\desktop\第三关2\sourcecode\src\scense4.cpp
+	"CommonAPI.h"
+	"scense0.h"
+
+1586263620 source:c:\users\86178\desktop\第三关2\sourcecode\src\scensex.cpp
+	"scense0.h"
+	"scenseX.h"
+	<Stdio.h>
+	"CommonAPI.h"
+	"string.h"
+
+1585106810 source:c:\users\dell\desktop\第三关2222\sourcecode\icon.rc
+
+1585106810 source:c:\users\dell\desktop\第三关2222\sourcecode\src\main.cpp
+	"CommonAPI.h"
+	"scenseX.h"
+
+1585106810 c:\users\dell\desktop\第三关2222\sourcecode\header\commonapi.h
+	<windows.h>
+
+1586264884 c:\users\dell\desktop\第三关2222\sourcecode\header\scensex.h
+	<Windows.h>
+
+1585106810 source:c:\users\dell\desktop\第三关2222\sourcecode\src\scense0.cpp
+
+1586155012 source:c:\users\dell\desktop\第三关2222\sourcecode\src\scense1.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	<stdio.h>
+
+1586264662 c:\users\dell\desktop\第三关2222\sourcecode\header\scense0.h
+	"scenseX.h"
+
+1585658462 source:c:\users\dell\desktop\第三关2222\sourcecode\src\scense2.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	<stdio.h>
+
+1586155024 source:c:\users\dell\desktop\第三关2222\sourcecode\src\scense4.cpp
+	"CommonAPI.h"
+	"scense0.h"
+
+1586263622 source:c:\users\dell\desktop\第三关2222\sourcecode\src\scensex.cpp
+	"scense0.h"
+	"scenseX.h"
+	<Stdio.h>
+	"CommonAPI.h"
+	"string.h"
+
+1585106810 source:c:\users\86178\desktop\第四关1\sourcecode\icon.rc
+
+1585106810 source:c:\users\86178\desktop\第四关1\sourcecode\src\main.cpp
+	"CommonAPI.h"
+	"scenseX.h"
+
+1585106810 c:\users\86178\desktop\第四关1\sourcecode\header\commonapi.h
+	<windows.h>
+
+1586349868 c:\users\86178\desktop\第四关1\sourcecode\header\scensex.h
+	<Windows.h>
+
+1585106810 source:c:\users\86178\desktop\第四关1\sourcecode\src\scense0.cpp
+
+1586155012 source:c:\users\86178\desktop\第四关1\sourcecode\src\scense1.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	<stdio.h>
+
+1586350913 c:\users\86178\desktop\第四关1\sourcecode\header\scense0.h
+	"scenseX.h"
+
+1585658462 source:c:\users\86178\desktop\第四关1\sourcecode\src\scense2.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	<stdio.h>
+
+1586351220 source:c:\users\86178\desktop\第四关1\sourcecode\src\scense3.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	<stdio.h>
+
+1586351249 source:c:\users\86178\desktop\第四关1\sourcecode\src\scensex.cpp
+	"scense0.h"
+	"scenseX.h"
+	<Stdio.h>
+	"CommonAPI.h"
+	"string.h"
+
+1586350737 source:c:\users\86178\desktop\第四关1\sourcecode\src\scense4.cpp
+	"CommonAPI.h"
+	"scense0.h"
+
+1585106810 source:c:\users\dell\desktop\第四关222\sourcecode\icon.rc
+
+1585106810 source:c:\users\dell\desktop\第四关222\sourcecode\src\main.cpp
+	"CommonAPI.h"
+	"scenseX.h"
+
+1585106810 c:\users\dell\desktop\第四关222\sourcecode\header\commonapi.h
+	<windows.h>
+
+1586356012 c:\users\dell\desktop\第四关222\sourcecode\header\scensex.h
+	<Windows.h>
+
+1585106810 source:c:\users\dell\desktop\第四关222\sourcecode\src\scense0.cpp
+
+1586155012 source:c:\users\dell\desktop\第四关222\sourcecode\src\scense1.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	<stdio.h>
+
+1586350914 c:\users\dell\desktop\第四关222\sourcecode\header\scense0.h
+	"scenseX.h"
+
+1585658462 source:c:\users\dell\desktop\第四关222\sourcecode\src\scense2.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	<stdio.h>
+
+1586351222 source:c:\users\dell\desktop\第四关222\sourcecode\src\scense3.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	<stdio.h>
+
+1586351250 source:c:\users\dell\desktop\第四关222\sourcecode\src\scensex.cpp
+	"scense0.h"
+	"scenseX.h"
+	<Stdio.h>
+	"CommonAPI.h"
+	"string.h"
+
+1586355492 source:c:\users\dell\desktop\第四关222\sourcecode\src\scense4.cpp
+	"CommonAPI.h"
+	"scense0.h"
+
+1585106810 source:c:\users\86178\desktop\第四关222\sourcecode\icon.rc
+
+1585106810 source:c:\users\86178\desktop\第四关222\sourcecode\src\main.cpp
+	"CommonAPI.h"
+	"scenseX.h"
+
+1585106810 c:\users\86178\desktop\第四关222\sourcecode\header\commonapi.h
+	<windows.h>
+
+1586359608 c:\users\86178\desktop\第四关222\sourcecode\header\scensex.h
+	<Windows.h>
+
+1585106810 source:c:\users\86178\desktop\第四关222\sourcecode\src\scense0.cpp
+
+1586359021 source:c:\users\86178\desktop\第四关222\sourcecode\src\scense1.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	<stdio.h>
+
+1586359678 c:\users\86178\desktop\第四关222\sourcecode\header\scense0.h
+	"scenseX.h"
+
+1585658462 source:c:\users\86178\desktop\第四关222\sourcecode\src\scense2.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	<stdio.h>
+
+1586351222 source:c:\users\86178\desktop\第四关222\sourcecode\src\scense3.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	<stdio.h>
+
+1586359741 source:c:\users\86178\desktop\第四关222\sourcecode\src\scense4.cpp
+	"CommonAPI.h"
+	"scense0.h"
+
+1586359678 source:c:\users\86178\desktop\第四关222\sourcecode\src\scensex.cpp
+	"scense0.h"
+	"scenseX.h"
+	<Stdio.h>
+	"CommonAPI.h"
+	"string.h"
+
+1585106810 source:c:\users\86178\desktop\0000000\sourcecode\icon.rc
+
+1585106810 source:c:\users\86178\desktop\0000000\sourcecode\src\main.cpp
+	"CommonAPI.h"
+	"scenseX.h"
+
+1585106810 c:\users\86178\desktop\0000000\sourcecode\header\commonapi.h
+	<windows.h>
+
+1586535114 c:\users\86178\desktop\0000000\sourcecode\header\scensex.h
+	<Windows.h>
+
+1585106810 source:c:\users\86178\desktop\0000000\sourcecode\src\scense0.cpp
+
+1586155012 source:c:\users\86178\desktop\0000000\sourcecode\src\scense1.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	<stdio.h>
+
+1586535114 c:\users\86178\desktop\0000000\sourcecode\header\scense0.h
+	"scenseX.h"
+
+1586534925 source:c:\users\86178\desktop\0000000\sourcecode\src\scense3.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	<stdio.h>
+
+1586535114 source:c:\users\86178\desktop\0000000\sourcecode\src\scense4.cpp
+	"CommonAPI.h"
+	"scense0.h"
+
+1586157420 source:c:\users\86178\desktop\0000000\sourcecode\src\listx.cpp
+	"CommonAPI.h"
+	"List.h"
+	<stdio.h>
+
+1586158523 c:\users\86178\desktop\0000000\sourcecode\header\list.h
+	<windows.h>
+	"CommonAPI.h"
+	"LessonX.h"
+
+1586164731 c:\users\86178\desktop\0000000\sourcecode\header\lessonx.h
+	<Windows.h>
+
+1586529912 source:c:\users\86178\desktop\0000000\sourcecode\src\scense2.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	<stdio.h>
+
+1586534993 source:c:\users\86178\desktop\0000000\sourcecode\src\scensex.cpp
+	"scense0.h"
+	"scenseX.h"
+	<Stdio.h>
+	"CommonAPI.h"
+	"string.h"
+	"LessonX.h"
+	"List.h"
+
+1585106810 source:c:\users\86136\desktop\0000000\sourcecode\icon.rc
+
+1586157420 source:c:\users\86136\desktop\0000000\sourcecode\src\listx.cpp
+	"CommonAPI.h"
+	"List.h"
+	<stdio.h>
+
+1585106810 c:\users\86136\desktop\0000000\sourcecode\header\commonapi.h
+	<windows.h>
+
+1586158523 c:\users\86136\desktop\0000000\sourcecode\header\list.h
+	<windows.h>
+	"CommonAPI.h"
+	"LessonX.h"
+
+1586164731 c:\users\86136\desktop\0000000\sourcecode\header\lessonx.h
+	<Windows.h>
+
+1585106810 source:c:\users\86136\desktop\0000000\sourcecode\src\main.cpp
+	"CommonAPI.h"
+	"scenseX.h"
+
+1586535114 c:\users\86136\desktop\0000000\sourcecode\header\scensex.h
+	<Windows.h>
+
+1585106810 source:c:\users\86136\desktop\0000000\sourcecode\src\scense0.cpp
+
+1586538842 source:c:\users\86136\desktop\0000000\sourcecode\src\scense1.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	<stdio.h>
+
+1586535114 c:\users\86136\desktop\0000000\sourcecode\header\scense0.h
+	"scenseX.h"
+
+1586537318 source:c:\users\86136\desktop\0000000\sourcecode\src\scense2.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	<stdio.h>
+
+1586538698 source:c:\users\86136\desktop\0000000\sourcecode\src\scense3.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	<stdio.h>
+
+1586535114 source:c:\users\86136\desktop\0000000\sourcecode\src\scense4.cpp
+	"CommonAPI.h"
+	"scense0.h"
+
+1586538584 source:c:\users\86136\desktop\0000000\sourcecode\src\scensex.cpp
+	"scense0.h"
+	"scenseX.h"
+	<Stdio.h>
+	"CommonAPI.h"
+	"string.h"
+	"LessonX.h"
+	"List.h"
+
+1585106810 source:c:\users\86178\desktop\1\sourcecode\icon.rc
+
+1586157420 source:c:\users\86178\desktop\1\sourcecode\src\listx.cpp
+	"CommonAPI.h"
+	"List.h"
+	<stdio.h>
+
+1585106810 c:\users\86178\desktop\1\sourcecode\header\commonapi.h
+	<windows.h>
+
+1586158523 c:\users\86178\desktop\1\sourcecode\header\list.h
+	<windows.h>
+	"CommonAPI.h"
+	"LessonX.h"
+
+1586164731 c:\users\86178\desktop\1\sourcecode\header\lessonx.h
+	<Windows.h>
+
+1585106810 source:c:\users\86178\desktop\1\sourcecode\src\main.cpp
+	"CommonAPI.h"
+	"scenseX.h"
+
+1586535114 c:\users\86178\desktop\1\sourcecode\header\scensex.h
+	<Windows.h>
+
+1585106810 source:c:\users\86178\desktop\1\sourcecode\src\scense0.cpp
+
+1586563626 source:c:\users\86178\desktop\1\sourcecode\src\scense1.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	<stdio.h>
+
+1586535114 c:\users\86178\desktop\1\sourcecode\header\scense0.h
+	"scenseX.h"
+
+1586565206 source:c:\users\86178\desktop\1\sourcecode\src\scense2.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	<stdio.h>
+
+1586565389 source:c:\users\86178\desktop\1\sourcecode\src\scense3.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	<stdio.h>
+
+1586535114 source:c:\users\86178\desktop\1\sourcecode\src\scense4.cpp
+	"CommonAPI.h"
+	"scense0.h"
+
+1586565491 source:c:\users\86178\desktop\1\sourcecode\src\scensex.cpp
+	"scense0.h"
+	"scenseX.h"
+	<Stdio.h>
+	"CommonAPI.h"
+	"string.h"
+	"LessonX.h"
+	"List.h"
+
+1585106810 source:c:\users\86178\desktop\222222\sourcecode\icon.rc
+
+1586157420 source:c:\users\86178\desktop\222222\sourcecode\src\listx.cpp
+	"CommonAPI.h"
+	"List.h"
+	<stdio.h>
+
+1585106810 c:\users\86178\desktop\222222\sourcecode\header\commonapi.h
+	<windows.h>
+
+1586158523 c:\users\86178\desktop\222222\sourcecode\header\list.h
+	<windows.h>
+	"CommonAPI.h"
+	"LessonX.h"
+
+1586164731 c:\users\86178\desktop\222222\sourcecode\header\lessonx.h
+	<Windows.h>
+
+1585106810 source:c:\users\86178\desktop\222222\sourcecode\src\main.cpp
+	"CommonAPI.h"
+	"scenseX.h"
+
+1586535114 c:\users\86178\desktop\222222\sourcecode\header\scensex.h
+	<Windows.h>
+
+1585106810 source:c:\users\86178\desktop\222222\sourcecode\src\scense0.cpp
+
+1586563626 source:c:\users\86178\desktop\222222\sourcecode\src\scense1.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	<stdio.h>
+
+1586535114 c:\users\86178\desktop\222222\sourcecode\header\scense0.h
+	"scenseX.h"
+
+1586565206 source:c:\users\86178\desktop\222222\sourcecode\src\scense2.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	<stdio.h>
+
+1586565389 source:c:\users\86178\desktop\222222\sourcecode\src\scense3.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	<stdio.h>
+
+1586566842 source:c:\users\86178\desktop\222222\sourcecode\src\scense4.cpp
+	"CommonAPI.h"
+	"scense0.h"
+
+1586566327 source:c:\users\86178\desktop\222222\sourcecode\src\scensex.cpp
+	"scense0.h"
+	"scenseX.h"
+	<Stdio.h>
+	"CommonAPI.h"
+	"string.h"
+	"LessonX.h"
+	"List.h"
+
+1585106810 source:c:\users\86136\desktop\333333333\sourcecode\icon.rc
+
+1586157420 source:c:\users\86136\desktop\333333333\sourcecode\src\listx.cpp
+	"CommonAPI.h"
+	"List.h"
+	<stdio.h>
+
+1585106810 c:\users\86136\desktop\333333333\sourcecode\header\commonapi.h
+	<windows.h>
+
+1586158523 c:\users\86136\desktop\333333333\sourcecode\header\list.h
+	<windows.h>
+	"CommonAPI.h"
+	"LessonX.h"
+
+1586164731 c:\users\86136\desktop\333333333\sourcecode\header\lessonx.h
+	<Windows.h>
+
+1585106810 source:c:\users\86136\desktop\333333333\sourcecode\src\main.cpp
+	"CommonAPI.h"
+	"scenseX.h"
+
+1586535114 c:\users\86136\desktop\333333333\sourcecode\header\scensex.h
+	<Windows.h>
+
+1585106810 source:c:\users\86136\desktop\333333333\sourcecode\src\scense0.cpp
+
+1586568226 source:c:\users\86136\desktop\333333333\sourcecode\src\scense1.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	<stdio.h>
+
+1586535114 c:\users\86136\desktop\333333333\sourcecode\header\scense0.h
+	"scenseX.h"
+
+1586568226 source:c:\users\86136\desktop\333333333\sourcecode\src\scense3.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	<stdio.h>
+
+1586566842 source:c:\users\86136\desktop\333333333\sourcecode\src\scense4.cpp
+	"CommonAPI.h"
+	"scense0.h"
+
+1586568226 source:c:\users\86136\desktop\333333333\sourcecode\src\scense2.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	<stdio.h>
+
+1586569396 source:c:\users\86136\desktop\333333333\sourcecode\src\scensex.cpp
+	"scense0.h"
+	"scenseX.h"
+	<Stdio.h>
+	"CommonAPI.h"
+	"string.h"
+	"LessonX.h"
+	"List.h"
+
+1585106810 source:c:\users\86178\desktop\完整\sourcecode\icon.rc
+
+1586157420 source:c:\users\86178\desktop\完整\sourcecode\src\listx.cpp
+	"CommonAPI.h"
+	"List.h"
+	<stdio.h>
+
+1585106810 c:\users\86178\desktop\完整\sourcecode\header\commonapi.h
+	<windows.h>
+
+1586158523 c:\users\86178\desktop\完整\sourcecode\header\list.h
+	<windows.h>
+	"CommonAPI.h"
+	"LessonX.h"
+
+1586164731 c:\users\86178\desktop\完整\sourcecode\header\lessonx.h
+	<Windows.h>
+
+1585106810 source:c:\users\86178\desktop\完整\sourcecode\src\main.cpp
+	"CommonAPI.h"
+	"scenseX.h"
+
+1586535114 c:\users\86178\desktop\完整\sourcecode\header\scensex.h
+	<Windows.h>
+
+1585106810 source:c:\users\86178\desktop\完整\sourcecode\src\scense0.cpp
+
+1586568226 source:c:\users\86178\desktop\完整\sourcecode\src\scense1.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	<stdio.h>
+
+1586535114 c:\users\86178\desktop\完整\sourcecode\header\scense0.h
+	"scenseX.h"
+
+1586568226 source:c:\users\86178\desktop\完整\sourcecode\src\scense2.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	<stdio.h>
+
+1586570147 source:c:\users\86178\desktop\完整\sourcecode\src\scense3.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	<stdio.h>
+
+1586566842 source:c:\users\86178\desktop\完整\sourcecode\src\scense4.cpp
+	"CommonAPI.h"
+	"scense0.h"
+
+1586570685 source:c:\users\86178\desktop\完整\sourcecode\src\scensex.cpp
+	"scense0.h"
+	"scenseX.h"
+	<Stdio.h>
+	"CommonAPI.h"
+	"string.h"
+	"LessonX.h"
+	"List.h"
+
+1585106810 source:c:\users\86178\desktop\完整1111\sourcecode\icon.rc
+
+1586157420 source:c:\users\86178\desktop\完整1111\sourcecode\src\listx.cpp
+	"CommonAPI.h"
+	"List.h"
+	<stdio.h>
+
+1585106810 c:\users\86178\desktop\完整1111\sourcecode\header\commonapi.h
+	<windows.h>
+
+1586158523 c:\users\86178\desktop\完整1111\sourcecode\header\list.h
+	<windows.h>
+	"CommonAPI.h"
+	"LessonX.h"
+
+1586164731 c:\users\86178\desktop\完整1111\sourcecode\header\lessonx.h
+	<Windows.h>
+
+1585106810 source:c:\users\86178\desktop\完整1111\sourcecode\src\main.cpp
+	"CommonAPI.h"
+	"scenseX.h"
+
+1586535114 c:\users\86178\desktop\完整1111\sourcecode\header\scensex.h
+	<Windows.h>
+
+1585106810 source:c:\users\86178\desktop\完整1111\sourcecode\src\scense0.cpp
+
+1586568226 source:c:\users\86178\desktop\完整1111\sourcecode\src\scense1.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	<stdio.h>
+
+1586572119 c:\users\86178\desktop\完整1111\sourcecode\header\scense0.h
+	"scenseX.h"
+
+1586568226 source:c:\users\86178\desktop\完整1111\sourcecode\src\scense2.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	<stdio.h>
+
+1586572330 source:c:\users\86178\desktop\完整1111\sourcecode\src\scense3.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	<stdio.h>
+
+1586566842 source:c:\users\86178\desktop\完整1111\sourcecode\src\scense4.cpp
+	"CommonAPI.h"
+	"scense0.h"
+
+1586572041 source:c:\users\86178\desktop\完整1111\sourcecode\src\scensex.cpp
+	"scense0.h"
+	"scenseX.h"
+	<Stdio.h>
+	"CommonAPI.h"
+	"string.h"
+	"LessonX.h"
+	"List.h"
+
+1585106810 source:c:\users\86178\desktop\完整2222\sourcecode\icon.rc
+
+1586157420 source:c:\users\86178\desktop\完整2222\sourcecode\src\listx.cpp
+	"CommonAPI.h"
+	"List.h"
+	<stdio.h>
+
+1585106810 c:\users\86178\desktop\完整2222\sourcecode\header\commonapi.h
+	<windows.h>
+
+1586158523 c:\users\86178\desktop\完整2222\sourcecode\header\list.h
+	<windows.h>
+	"CommonAPI.h"
+	"LessonX.h"
+
+1586164731 c:\users\86178\desktop\完整2222\sourcecode\header\lessonx.h
+	<Windows.h>
+
+1585106810 source:c:\users\86178\desktop\完整2222\sourcecode\src\main.cpp
+	"CommonAPI.h"
+	"scenseX.h"
+
+1586573377 c:\users\86178\desktop\完整2222\sourcecode\header\scensex.h
+	<Windows.h>
+
+1585106810 source:c:\users\86178\desktop\完整2222\sourcecode\src\scense0.cpp
+
+1586568226 source:c:\users\86178\desktop\完整2222\sourcecode\src\scense1.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	<stdio.h>
+
+1586573377 c:\users\86178\desktop\完整2222\sourcecode\header\scense0.h
+	"scenseX.h"
+
+1586568226 source:c:\users\86178\desktop\完整2222\sourcecode\src\scense2.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	<stdio.h>
+
+1586574537 source:c:\users\86178\desktop\完整2222\sourcecode\src\scense3.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	<stdio.h>
+
+1586566842 source:c:\users\86178\desktop\完整2222\sourcecode\src\scense4.cpp
+	"CommonAPI.h"
+	"scense0.h"
+
+1586574410 source:c:\users\86178\desktop\完整2222\sourcecode\src\scensex.cpp
+	"scense0.h"
+	"scenseX.h"
+	<Stdio.h>
+	"CommonAPI.h"
+	"string.h"
+	"LessonX.h"
+	"List.h"
+
+1585106810 source:c:\users\86178\desktop\完整33333\sourcecode\icon.rc
+
+1586157420 source:c:\users\86178\desktop\完整33333\sourcecode\src\listx.cpp
+	"CommonAPI.h"
+	"List.h"
+	<stdio.h>
+
+1585106810 c:\users\86178\desktop\完整33333\sourcecode\header\commonapi.h
+	<windows.h>
+
+1586158523 c:\users\86178\desktop\完整33333\sourcecode\header\list.h
+	<windows.h>
+	"CommonAPI.h"
+	"LessonX.h"
+
+1586164731 c:\users\86178\desktop\完整33333\sourcecode\header\lessonx.h
+	<Windows.h>
+
+1585106810 source:c:\users\86178\desktop\完整33333\sourcecode\src\main.cpp
+	"CommonAPI.h"
+	"scenseX.h"
+
+1586573377 c:\users\86178\desktop\完整33333\sourcecode\header\scensex.h
+	<Windows.h>
+
+1585106810 source:c:\users\86178\desktop\完整33333\sourcecode\src\scense0.cpp
+
+1586568226 source:c:\users\86178\desktop\完整33333\sourcecode\src\scense1.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	<stdio.h>
+
+1586573377 c:\users\86178\desktop\完整33333\sourcecode\header\scense0.h
+	"scenseX.h"
+
+1586577358 source:c:\users\86178\desktop\完整33333\sourcecode\src\scense2.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	<stdio.h>
+
+1586574874 source:c:\users\86178\desktop\完整33333\sourcecode\src\scense3.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	<stdio.h>
+
+1586566842 source:c:\users\86178\desktop\完整33333\sourcecode\src\scense4.cpp
+	"CommonAPI.h"
+	"scense0.h"
+
+1586577321 source:c:\users\86178\desktop\完整33333\sourcecode\src\scensex.cpp
+	"scense0.h"
+	"scenseX.h"
+	<Stdio.h>
+	"CommonAPI.h"
+	"string.h"
+	"LessonX.h"
+	"List.h"
+
+1585106810 source:c:\users\86178\desktop\完整4444444\sourcecode\icon.rc
+
+1586157420 source:c:\users\86178\desktop\完整4444444\sourcecode\src\listx.cpp
+	"CommonAPI.h"
+	"List.h"
+	<stdio.h>
+
+1585106810 c:\users\86178\desktop\完整4444444\sourcecode\header\commonapi.h
+	<windows.h>
+
+1586158523 c:\users\86178\desktop\完整4444444\sourcecode\header\list.h
+	<windows.h>
+	"CommonAPI.h"
+	"LessonX.h"
+
+1586164731 c:\users\86178\desktop\完整4444444\sourcecode\header\lessonx.h
+	<Windows.h>
+
+1585106810 source:c:\users\86178\desktop\完整4444444\sourcecode\src\main.cpp
+	"CommonAPI.h"
+	"scenseX.h"
+
+1586583376 c:\users\86178\desktop\完整4444444\sourcecode\header\scensex.h
+	<Windows.h>
+
+1585106810 source:c:\users\86178\desktop\完整4444444\sourcecode\src\scense0.cpp
+
+1586568226 source:c:\users\86178\desktop\完整4444444\sourcecode\src\scense1.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	<stdio.h>
+
+1586583376 c:\users\86178\desktop\完整4444444\sourcecode\header\scense0.h
+	"scenseX.h"
+
+1586577358 source:c:\users\86178\desktop\完整4444444\sourcecode\src\scense2.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	<stdio.h>
+
+1586574874 source:c:\users\86178\desktop\完整4444444\sourcecode\src\scense3.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	<stdio.h>
+
+1586583710 source:c:\users\86178\desktop\完整4444444\sourcecode\src\scense4.cpp
+	"CommonAPI.h"
+	"scense0.h"
+
+1586583710 source:c:\users\86178\desktop\完整4444444\sourcecode\src\scensex.cpp
+	"scense0.h"
+	"scenseX.h"
+	<Stdio.h>
+	"CommonAPI.h"
+	"string.h"
+	"LessonX.h"
+	"List.h"
+
+1585106810 source:c:\users\dell\desktop\完整555555\sourcecode\icon.rc
+
+1586157422 source:c:\users\dell\desktop\完整555555\sourcecode\src\listx.cpp
+	"CommonAPI.h"
+	"List.h"
+	<stdio.h>
+
+1585106810 c:\users\dell\desktop\完整555555\sourcecode\header\commonapi.h
+	<windows.h>
+
+1586158524 c:\users\dell\desktop\完整555555\sourcecode\header\list.h
+	<windows.h>
+	"CommonAPI.h"
+	"LessonX.h"
+
+1586164732 c:\users\dell\desktop\完整555555\sourcecode\header\lessonx.h
+	<Windows.h>
+
+1585106810 source:c:\users\dell\desktop\完整555555\sourcecode\src\main.cpp
+	"CommonAPI.h"
+	"scenseX.h"
+
+1586583378 c:\users\dell\desktop\完整555555\sourcecode\header\scensex.h
+	<Windows.h>
+
+1585106810 source:c:\users\dell\desktop\完整555555\sourcecode\src\scense0.cpp
+
+1586568228 source:c:\users\dell\desktop\完整555555\sourcecode\src\scense1.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	<stdio.h>
+
+1586583378 c:\users\dell\desktop\完整555555\sourcecode\header\scense0.h
+	"scenseX.h"
+
+1586577360 source:c:\users\dell\desktop\完整555555\sourcecode\src\scense2.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	<stdio.h>
+
+1586574876 source:c:\users\dell\desktop\完整555555\sourcecode\src\scense3.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	<stdio.h>
+
+1586704313 source:c:\users\dell\desktop\完整555555\sourcecode\src\scensex.cpp
+	"scense0.h"
+	"scenseX.h"
+	<Stdio.h>
+	"CommonAPI.h"
+	"string.h"
+	"LessonX.h"
+	"List.h"
+
+1586704201 source:c:\users\dell\desktop\完整555555\sourcecode\src\scense4.cpp
+	"CommonAPI.h"
+	"scense0.h"
+
+1585106810 source:c:\users\86136\desktop\完整555555\sourcecode\icon.rc
+
+1586157422 source:c:\users\86136\desktop\完整555555\sourcecode\src\listx.cpp
+	"CommonAPI.h"
+	"List.h"
+	<stdio.h>
+
+1585106810 c:\users\86136\desktop\完整555555\sourcecode\header\commonapi.h
+	<windows.h>
+
+1586158524 c:\users\86136\desktop\完整555555\sourcecode\header\list.h
+	<windows.h>
+	"CommonAPI.h"
+	"LessonX.h"
+
+1586164732 c:\users\86136\desktop\完整555555\sourcecode\header\lessonx.h
+	<Windows.h>
+
+1585106810 source:c:\users\86136\desktop\完整555555\sourcecode\src\main.cpp
+	"CommonAPI.h"
+	"scenseX.h"
+
+1586583378 c:\users\86136\desktop\完整555555\sourcecode\header\scensex.h
+	<Windows.h>
+
+1585106810 source:c:\users\86136\desktop\完整555555\sourcecode\src\scense0.cpp
+
+1586568228 source:c:\users\86136\desktop\完整555555\sourcecode\src\scense1.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	<stdio.h>
+
+1586583378 c:\users\86136\desktop\完整555555\sourcecode\header\scense0.h
+	"scenseX.h"
+
+1586793811 source:c:\users\86136\desktop\完整555555\sourcecode\src\scense2.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	<stdio.h>
+
+1586574876 source:c:\users\86136\desktop\完整555555\sourcecode\src\scense3.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	<stdio.h>
+
+1586704936 source:c:\users\86136\desktop\完整555555\sourcecode\src\scense4.cpp
+	"CommonAPI.h"
+	"scense0.h"
+
+1586794348 source:c:\users\86136\desktop\完整555555\sourcecode\src\scensex.cpp
+	"scense0.h"
+	"scenseX.h"
+	<Stdio.h>
+	"CommonAPI.h"
+	"string.h"
+	"LessonX.h"
+	"List.h"
+
+1585106810 source:c:\users\86178\desktop\666\sourcecode\icon.rc
+
+1586157422 source:c:\users\86178\desktop\666\sourcecode\src\listx.cpp
+	"CommonAPI.h"
+	"List.h"
+	<stdio.h>
+
+1585106810 c:\users\86178\desktop\666\sourcecode\header\commonapi.h
+	<windows.h>
+
+1586158524 c:\users\86178\desktop\666\sourcecode\header\list.h
+	<windows.h>
+	"CommonAPI.h"
+	"LessonX.h"
+
+1586164732 c:\users\86178\desktop\666\sourcecode\header\lessonx.h
+	<Windows.h>
+
+1585106810 source:c:\users\86178\desktop\666\sourcecode\src\main.cpp
+	"CommonAPI.h"
+	"scenseX.h"
+
+1586583378 c:\users\86178\desktop\666\sourcecode\header\scensex.h
+	<Windows.h>
+
+1585106810 source:c:\users\86178\desktop\666\sourcecode\src\scense0.cpp
+
+1586877553 source:c:\users\86178\desktop\666\sourcecode\src\scense1.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	<stdio.h>
+
+1586880566 c:\users\86178\desktop\666\sourcecode\header\scense0.h
+	"scenseX.h"
+
+1586877553 source:c:\users\86178\desktop\666\sourcecode\src\scense2.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	<stdio.h>
+
+1586574876 source:c:\users\86178\desktop\666\sourcecode\src\scense3.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	<stdio.h>
+
+1586880345 source:c:\users\86178\desktop\666\sourcecode\src\scense4.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	"stdio.h"
+
+1586879311 source:c:\users\86178\desktop\666\sourcecode\src\scensex.cpp
+	"scense0.h"
+	"scenseX.h"
+	<Stdio.h>
+	"CommonAPI.h"
+	"string.h"
+	"LessonX.h"
+	"List.h"
+
+1585106810 source:c:\users\86178\desktop\66611111\sourcecode\icon.rc
+
+1586157422 source:c:\users\86178\desktop\66611111\sourcecode\src\listx.cpp
+	"CommonAPI.h"
+	"List.h"
+	<stdio.h>
+
+1585106810 c:\users\86178\desktop\66611111\sourcecode\header\commonapi.h
+	<windows.h>
+
+1586158524 c:\users\86178\desktop\66611111\sourcecode\header\list.h
+	<windows.h>
+	"CommonAPI.h"
+	"LessonX.h"
+
+1586966421 c:\users\86178\desktop\66611111\sourcecode\header\lessonx.h
+	<Windows.h>
+
+1585106810 source:c:\users\86178\desktop\66611111\sourcecode\src\main.cpp
+	"CommonAPI.h"
+	"scenseX.h"
+
+1586583378 c:\users\86178\desktop\66611111\sourcecode\header\scensex.h
+	<Windows.h>
+
+1585106810 source:c:\users\86178\desktop\66611111\sourcecode\src\scense0.cpp
+
+1586877553 source:c:\users\86178\desktop\66611111\sourcecode\src\scense1.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	<stdio.h>
+
+1586961081 c:\users\86178\desktop\66611111\sourcecode\header\scense0.h
+	"scenseX.h"
+
+1586877553 source:c:\users\86178\desktop\66611111\sourcecode\src\scense2.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	<stdio.h>
+
+1586574876 source:c:\users\86178\desktop\66611111\sourcecode\src\scense3.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	<stdio.h>
+
+1586967665 source:c:\users\86178\desktop\66611111\sourcecode\src\scense4.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	"stdio.h"
+
+1586967385 source:c:\users\86178\desktop\66611111\sourcecode\src\scensex.cpp
+	"scense0.h"
+	"scenseX.h"
+	<Stdio.h>
+	"CommonAPI.h"
+	"string.h"
+	"LessonX.h"
+	"List.h"
+
+1585106810 source:c:\users\86178\desktop\kuleayaosile\sourcecode\icon.rc
+
+1586157422 source:c:\users\86178\desktop\kuleayaosile\sourcecode\src\listx.cpp
+	"CommonAPI.h"
+	"List.h"
+	<stdio.h>
+
+1585106810 c:\users\86178\desktop\kuleayaosile\sourcecode\header\commonapi.h
+	<windows.h>
+
+1586158524 c:\users\86178\desktop\kuleayaosile\sourcecode\header\list.h
+	<windows.h>
+	"CommonAPI.h"
+	"LessonX.h"
+
+1586966421 c:\users\86178\desktop\kuleayaosile\sourcecode\header\lessonx.h
+	<Windows.h>
+
+1585106810 source:c:\users\86178\desktop\kuleayaosile\sourcecode\src\main.cpp
+	"CommonAPI.h"
+	"scenseX.h"
+
+1586583378 c:\users\86178\desktop\kuleayaosile\sourcecode\header\scensex.h
+	<Windows.h>
+
+1585106810 source:c:\users\86178\desktop\kuleayaosile\sourcecode\src\scense0.cpp
+
+1587014365 source:c:\users\86178\desktop\kuleayaosile\sourcecode\src\scense1.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	<stdio.h>
+
+1587015534 c:\users\86178\desktop\kuleayaosile\sourcecode\header\scense0.h
+	"scenseX.h"
+
+1586877553 source:c:\users\86178\desktop\kuleayaosile\sourcecode\src\scense2.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	<stdio.h>
+
+1586574876 source:c:\users\86178\desktop\kuleayaosile\sourcecode\src\scense3.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	<stdio.h>
+
+1587017196 source:c:\users\86178\desktop\kuleayaosile\sourcecode\src\scense4.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	"stdio.h"
+
+1587017157 source:c:\users\86178\desktop\kuleayaosile\sourcecode\src\scensex.cpp
+	"scense0.h"
+	"scenseX.h"
+	<Stdio.h>
+	"CommonAPI.h"
+	"string.h"
+	"LessonX.h"
+	"List.h"
+
+1585106810 source:c:\users\86178\desktop\sssssss\sourcecode\icon.rc
+
+1586157422 source:c:\users\86178\desktop\sssssss\sourcecode\src\listx.cpp
+	"CommonAPI.h"
+	"List.h"
+	<stdio.h>
+
+1585106810 c:\users\86178\desktop\sssssss\sourcecode\header\commonapi.h
+	<windows.h>
+
+1586158524 c:\users\86178\desktop\sssssss\sourcecode\header\list.h
+	<windows.h>
+	"CommonAPI.h"
+	"LessonX.h"
+
+1586966421 c:\users\86178\desktop\sssssss\sourcecode\header\lessonx.h
+	<Windows.h>
+
+1585106810 source:c:\users\86178\desktop\sssssss\sourcecode\src\main.cpp
+	"CommonAPI.h"
+	"scenseX.h"
+
+1586583378 c:\users\86178\desktop\sssssss\sourcecode\header\scensex.h
+	<Windows.h>
+
+1585106810 source:c:\users\86178\desktop\sssssss\sourcecode\src\scense0.cpp
+
+1587014365 source:c:\users\86178\desktop\sssssss\sourcecode\src\scense1.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	<stdio.h>
+
+1587015534 c:\users\86178\desktop\sssssss\sourcecode\header\scense0.h
+	"scenseX.h"
+
+1586877553 source:c:\users\86178\desktop\sssssss\sourcecode\src\scense2.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	<stdio.h>
+
+1587019126 source:c:\users\86178\desktop\sssssss\sourcecode\src\scense3.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	<stdio.h>
+
+1587019023 source:c:\users\86178\desktop\sssssss\sourcecode\src\scensex.cpp
+	"scense0.h"
+	"scenseX.h"
+	<Stdio.h>
+	"CommonAPI.h"
+	"string.h"
+	"LessonX.h"
+	"List.h"
+
+1587018047 source:c:\users\86178\desktop\sssssss\sourcecode\src\scense4.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	"stdio.h"
+
+1585106810 source:c:\users\86136\desktop\sssssss\sourcecode\icon.rc
+
+1586157422 source:c:\users\86136\desktop\sssssss\sourcecode\src\listx.cpp
+	"CommonAPI.h"
+	"List.h"
+	<stdio.h>
+
+1585106810 c:\users\86136\desktop\sssssss\sourcecode\header\commonapi.h
+	<windows.h>
+
+1586158524 c:\users\86136\desktop\sssssss\sourcecode\header\list.h
+	<windows.h>
+	"CommonAPI.h"
+	"LessonX.h"
+
+1586966421 c:\users\86136\desktop\sssssss\sourcecode\header\lessonx.h
+	<Windows.h>
+
+1585106810 source:c:\users\86136\desktop\sssssss\sourcecode\src\main.cpp
+	"CommonAPI.h"
+	"scenseX.h"
+
+1586583378 c:\users\86136\desktop\sssssss\sourcecode\header\scensex.h
+	<Windows.h>
+
+1587014365 source:c:\users\86136\desktop\sssssss\sourcecode\src\scense1.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	<stdio.h>
+
+1587015534 c:\users\86136\desktop\sssssss\sourcecode\header\scense0.h
+	"scenseX.h"
+
+1586877553 source:c:\users\86136\desktop\sssssss\sourcecode\src\scense2.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	<stdio.h>
+
+1587019126 source:c:\users\86136\desktop\sssssss\sourcecode\src\scense3.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	<stdio.h>
+
+1587022120 source:c:\users\86136\desktop\sssssss\sourcecode\src\scense4.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	"stdio.h"
+
+1587022228 source:c:\users\86136\desktop\sssssss\sourcecode\src\scensex.cpp
+	"scense0.h"
+	"scenseX.h"
+	<Stdio.h>
+	"CommonAPI.h"
+	"string.h"
+	"LessonX.h"
+	"List.h"
+
+1585106810 source:c:\users\86178\desktop\777\sourcecode\icon.rc
+
+1586157422 source:c:\users\86178\desktop\777\sourcecode\src\listx.cpp
+	"CommonAPI.h"
+	"List.h"
+	<stdio.h>
+
+1585106810 c:\users\86178\desktop\777\sourcecode\header\commonapi.h
+	<windows.h>
+
+1586158524 c:\users\86178\desktop\777\sourcecode\header\list.h
+	<windows.h>
+	"CommonAPI.h"
+	"LessonX.h"
+
+1586966421 c:\users\86178\desktop\777\sourcecode\header\lessonx.h
+	<Windows.h>
+
+1585106810 source:c:\users\86178\desktop\777\sourcecode\src\main.cpp
+	"CommonAPI.h"
+	"scenseX.h"
+
+1586583378 c:\users\86178\desktop\777\sourcecode\header\scensex.h
+	<Windows.h>
+
+1587014365 source:c:\users\86178\desktop\777\sourcecode\src\scense1.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	<stdio.h>
+
+1587015534 c:\users\86178\desktop\777\sourcecode\header\scense0.h
+	"scenseX.h"
+
+1586877553 source:c:\users\86178\desktop\777\sourcecode\src\scense2.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	<stdio.h>
+
+1587025632 source:c:\users\86178\desktop\777\sourcecode\src\scense3.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	<stdio.h>
+
+1587032126 source:c:\users\86178\desktop\777\sourcecode\src\scense4.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	"stdio.h"
+
+1587032177 source:c:\users\86178\desktop\777\sourcecode\src\scensex.cpp
+	"scense0.h"
+	"scenseX.h"
+	<Stdio.h>
+	"CommonAPI.h"
+	"string.h"
+	"LessonX.h"
+	"List.h"
+
+1585106810 source:c:\users\86178\desktop\eee\sourcecode\icon.rc
+
+1586157422 source:c:\users\86178\desktop\eee\sourcecode\src\listx.cpp
+	"CommonAPI.h"
+	"List.h"
+	<stdio.h>
+
+1585106810 c:\users\86178\desktop\eee\sourcecode\header\commonapi.h
+	<windows.h>
+
+1586158524 c:\users\86178\desktop\eee\sourcecode\header\list.h
+	<windows.h>
+	"CommonAPI.h"
+	"LessonX.h"
+
+1586966421 c:\users\86178\desktop\eee\sourcecode\header\lessonx.h
+	<Windows.h>
+
+1585106810 source:c:\users\86178\desktop\eee\sourcecode\src\main.cpp
+	"CommonAPI.h"
+	"scenseX.h"
+
+1587092794 c:\users\86178\desktop\eee\sourcecode\header\scensex.h
+	<Windows.h>
+
+1587014365 source:c:\users\86178\desktop\eee\sourcecode\src\scense1.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	<stdio.h>
+
+1587101379 c:\users\86178\desktop\eee\sourcecode\header\scense0.h
+	"scenseX.h"
+
+1586877553 source:c:\users\86178\desktop\eee\sourcecode\src\scense2.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	<stdio.h>
+
+1587102812 source:c:\users\86178\desktop\eee\sourcecode\src\scense3.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	<stdio.h>
+
+1587101379 source:c:\users\86178\desktop\eee\sourcecode\src\scense4.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	"stdio.h"
+
+1587101602 source:c:\users\86178\desktop\eee\sourcecode\src\scensex.cpp
+	"scense0.h"
+	"scenseX.h"
+	<Stdio.h>
+	"CommonAPI.h"
+	"string.h"
+	"LessonX.h"
+	"List.h"
+
+1585106810 source:c:\users\86136\desktop\qqqaaaaassss\sourcecode\icon.rc
+
+1586157422 source:c:\users\86136\desktop\qqqaaaaassss\sourcecode\src\listx.cpp
+	"CommonAPI.h"
+	"List.h"
+	<stdio.h>
+
+1585106810 c:\users\86136\desktop\qqqaaaaassss\sourcecode\header\commonapi.h
+	<windows.h>
+
+1586158524 c:\users\86136\desktop\qqqaaaaassss\sourcecode\header\list.h
+	<windows.h>
+	"CommonAPI.h"
+	"LessonX.h"
+
+1586966421 c:\users\86136\desktop\qqqaaaaassss\sourcecode\header\lessonx.h
+	<Windows.h>
+
+1585106810 source:c:\users\86136\desktop\qqqaaaaassss\sourcecode\src\main.cpp
+	"CommonAPI.h"
+	"scenseX.h"
+
+1587092794 c:\users\86136\desktop\qqqaaaaassss\sourcecode\header\scensex.h
+	<Windows.h>
+
+1587014365 source:c:\users\86136\desktop\qqqaaaaassss\sourcecode\src\scense1.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	<stdio.h>
+
+1587101379 c:\users\86136\desktop\qqqaaaaassss\sourcecode\header\scense0.h
+	"scenseX.h"
+
+1586877553 source:c:\users\86136\desktop\qqqaaaaassss\sourcecode\src\scense2.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	<stdio.h>
+
+1587102812 source:c:\users\86136\desktop\qqqaaaaassss\sourcecode\src\scense3.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	<stdio.h>
+
+1587101379 source:c:\users\86136\desktop\qqqaaaaassss\sourcecode\src\scense4.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	"stdio.h"
+
+1587112860 source:c:\users\86136\desktop\qqqaaaaassss\sourcecode\src\scensex.cpp
+	"scense0.h"
+	"scenseX.h"
+	<Stdio.h>
+	"CommonAPI.h"
+	"string.h"
+	"LessonX.h"
+	"List.h"
+
+1585106810 source:c:\users\86136\desktop\gay\sourcecode\icon.rc
+
+1586157422 source:c:\users\86136\desktop\gay\sourcecode\src\listx.cpp
+	"CommonAPI.h"
+	"List.h"
+	<stdio.h>
+
+1585106810 c:\users\86136\desktop\gay\sourcecode\header\commonapi.h
+	<windows.h>
+
+1586158524 c:\users\86136\desktop\gay\sourcecode\header\list.h
+	<windows.h>
+	"CommonAPI.h"
+	"LessonX.h"
+
+1586966421 c:\users\86136\desktop\gay\sourcecode\header\lessonx.h
+	<Windows.h>
+
+1585106810 source:c:\users\86136\desktop\gay\sourcecode\src\main.cpp
+	"CommonAPI.h"
+	"scenseX.h"
+
+1587092794 c:\users\86136\desktop\gay\sourcecode\header\scensex.h
+	<Windows.h>
+
+1587014365 source:c:\users\86136\desktop\gay\sourcecode\src\scense1.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	<stdio.h>
+
+1587101379 c:\users\86136\desktop\gay\sourcecode\header\scense0.h
+	"scenseX.h"
+
+1586877553 source:c:\users\86136\desktop\gay\sourcecode\src\scense2.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	<stdio.h>
+
+1587102812 source:c:\users\86136\desktop\gay\sourcecode\src\scense3.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	<stdio.h>
+
+1587117282 source:c:\users\86136\desktop\gay\sourcecode\src\scense4.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	"stdio.h"
+
+1587117119 source:c:\users\86136\desktop\gay\sourcecode\src\scensex.cpp
+	"scense0.h"
+	"scenseX.h"
+	<Stdio.h>
+	"CommonAPI.h"
+	"string.h"
+	"LessonX.h"
+	"List.h"
+
+1585106810 source:c:\users\86178\desktop\nantong\sourcecode\icon.rc
+
+1586157422 source:c:\users\86178\desktop\nantong\sourcecode\src\listx.cpp
+	"CommonAPI.h"
+	"List.h"
+	<stdio.h>
+
+1585106810 c:\users\86178\desktop\nantong\sourcecode\header\commonapi.h
+	<windows.h>
+
+1586158524 c:\users\86178\desktop\nantong\sourcecode\header\list.h
+	<windows.h>
+	"CommonAPI.h"
+	"LessonX.h"
+
+1586966421 c:\users\86178\desktop\nantong\sourcecode\header\lessonx.h
+	<Windows.h>
+
+1585106810 source:c:\users\86178\desktop\nantong\sourcecode\src\main.cpp
+	"CommonAPI.h"
+	"scenseX.h"
+
+1587092794 c:\users\86178\desktop\nantong\sourcecode\header\scensex.h
+	<Windows.h>
+
+1587014365 source:c:\users\86178\desktop\nantong\sourcecode\src\scense1.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	<stdio.h>
+
+1587127795 c:\users\86178\desktop\nantong\sourcecode\header\scense0.h
+	"scenseX.h"
+
+1586877553 source:c:\users\86178\desktop\nantong\sourcecode\src\scense2.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	<stdio.h>
+
+1587127795 source:c:\users\86178\desktop\nantong\sourcecode\src\scense3.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	<stdio.h>
+
+1587127865 source:c:\users\86178\desktop\nantong\sourcecode\src\scensex.cpp
+	"scense0.h"
+	"scenseX.h"
+	<Stdio.h>
+	"CommonAPI.h"
+	"string.h"
+	"LessonX.h"
+	"List.h"
+
+1587118092 source:c:\users\86178\desktop\nantong\sourcecode\src\scense4.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	"stdio.h"
+
+1585106810 source:c:\users\86178\desktop\4869\sourcecode\icon.rc
+
+1586157422 source:c:\users\86178\desktop\4869\sourcecode\src\listx.cpp
+	"CommonAPI.h"
+	"List.h"
+	<stdio.h>
+
+1585106810 c:\users\86178\desktop\4869\sourcecode\header\commonapi.h
+	<windows.h>
+
+1586158524 c:\users\86178\desktop\4869\sourcecode\header\list.h
+	<windows.h>
+	"CommonAPI.h"
+	"LessonX.h"
+
+1587129538 c:\users\86178\desktop\4869\sourcecode\header\lessonx.h
+	<Windows.h>
+
+1585106810 source:c:\users\86178\desktop\4869\sourcecode\src\main.cpp
+	"CommonAPI.h"
+	"scenseX.h"
+
+1587092794 c:\users\86178\desktop\4869\sourcecode\header\scensex.h
+	<Windows.h>
+
+1587014365 source:c:\users\86178\desktop\4869\sourcecode\src\scense1.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	<stdio.h>
+
+1587127795 c:\users\86178\desktop\4869\sourcecode\header\scense0.h
+	"scenseX.h"
+
+1586877553 source:c:\users\86178\desktop\4869\sourcecode\src\scense2.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	<stdio.h>
+
+1587127912 source:c:\users\86178\desktop\4869\sourcecode\src\scense3.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	<stdio.h>
+
+1587118092 source:c:\users\86178\desktop\4869\sourcecode\src\scense4.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	"stdio.h"
+
+1587129686 source:c:\users\86178\desktop\4869\sourcecode\src\scensex.cpp
+	"scense0.h"
+	"scenseX.h"
+	<Stdio.h>
+	"CommonAPI.h"
+	"string.h"
+	"LessonX.h"
+	"List.h"
+	"virusplane.h"
+
+1587129770 c:\users\86178\desktop\4869\sourcecode\header\virusplane.h
+	"scenseX.h"
+
+1587129222 source:c:\users\86178\desktop\4869\sourcecode\src\virusplane.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	<stdio.h>
+
+1585106810 source:c:\users\86178\desktop\4869 - 副本\sourcecode\icon.rc
+
+1586157422 source:c:\users\86178\desktop\4869 - 副本\sourcecode\src\listx.cpp
+	"CommonAPI.h"
+	"List.h"
+	<stdio.h>
+
+1585106810 c:\users\86178\desktop\4869 - 副本\sourcecode\header\commonapi.h
+	<windows.h>
+
+1586158524 c:\users\86178\desktop\4869 - 副本\sourcecode\header\list.h
+	<windows.h>
+	"CommonAPI.h"
+	"LessonX.h"
+
+1587129538 c:\users\86178\desktop\4869 - 副本\sourcecode\header\lessonx.h
+	<Windows.h>
+
+1585106810 source:c:\users\86178\desktop\4869 - 副本\sourcecode\src\main.cpp
+	"CommonAPI.h"
+	"scenseX.h"
+
+1587131028 c:\users\86178\desktop\4869 - 副本\sourcecode\header\scensex.h
+	<Windows.h>
+
+1587014365 source:c:\users\86178\desktop\4869 - 副本\sourcecode\src\scense1.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	<stdio.h>
+
+1587127795 c:\users\86178\desktop\4869 - 副本\sourcecode\header\scense0.h
+	"scenseX.h"
+
+1586877553 source:c:\users\86178\desktop\4869 - 副本\sourcecode\src\scense2.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	<stdio.h>
+
+1587127912 source:c:\users\86178\desktop\4869 - 副本\sourcecode\src\scense3.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	<stdio.h>
+
+1587118092 source:c:\users\86178\desktop\4869 - 副本\sourcecode\src\scense4.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	"stdio.h"
+
+1587131343 source:c:\users\86178\desktop\4869 - 副本\sourcecode\src\scensex.cpp
+	"scense0.h"
+	"scenseX.h"
+	<Stdio.h>
+	"CommonAPI.h"
+	"string.h"
+	"LessonX.h"
+	"List.h"
+	"Virusplane.h"
+
+1587131205 c:\users\86178\desktop\4869 - 副本\sourcecode\header\virusplane.h
+	"scenseX.h"
+
+1587131258 source:c:\users\86178\desktop\4869 - 副本\sourcecode\src\virusplane.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	"virusplane.h"
+	"LessonX.h"
+	"List.h"
+	<stdio.h>
+
+1585106810 source:c:\users\86178\desktop\4869 - 副1本\sourcecode\icon.rc
+
+1587131630 source:c:\users\86178\desktop\4869 - 副1本\sourcecode\src\listx.cpp
+	"CommonAPI.h"
+	"List.h"
+	"virusplane.h"
+	<stdio.h>
+
+1585106810 c:\users\86178\desktop\4869 - 副1本\sourcecode\header\commonapi.h
+	<windows.h>
+
+1587131636 c:\users\86178\desktop\4869 - 副1本\sourcecode\header\list.h
+	<windows.h>
+	"CommonAPI.h"
+	"virusplane.h"
+
+1587131597 c:\users\86178\desktop\4869 - 副1本\sourcecode\header\lessonx.h
+
+1585106810 source:c:\users\86178\desktop\4869 - 副1本\sourcecode\src\main.cpp
+	"CommonAPI.h"
+	"scenseX.h"
+
+1587135477 c:\users\86178\desktop\4869 - 副1本\sourcecode\header\scensex.h
+	<Windows.h>
+
+1587137289 source:c:\users\86178\desktop\4869 - 副1本\sourcecode\src\scense1.cpp
+	"CommonAPI.h"
+	"scenseX.h"
+	<stdio.h>
+
+1587131737 c:\users\86178\desktop\4869 - 副1本\sourcecode\header\scense0.h
+	"scenseX.h"
+
+1587138752 source:c:\users\86178\desktop\4869 - 副1本\sourcecode\src\scense2.cpp
+	"CommonAPI.h"
+	"scenseX.h"
+	<stdio.h>
+
+1587138551 source:c:\users\86178\desktop\4869 - 副1本\sourcecode\src\scense3.cpp
+	"CommonAPI.h"
+	"scenseX.h"
+	<stdio.h>
+
+1587136577 source:c:\users\86178\desktop\4869 - 副1本\sourcecode\src\scense4.cpp
+	"CommonAPI.h"
+	"scenseX.h"
+	"stdio.h"
+
+1587138355 source:c:\users\86178\desktop\4869 - 副1本\sourcecode\src\scensex.cpp
+	"scenseX.h"
+	<Stdio.h>
+	"CommonAPI.h"
+	"string.h"
+	"List.h"
+	"Virusplane.h"
+
+1587131597 c:\users\86178\desktop\4869 - 副1本\sourcecode\header\virusplane.h
+	"scenseX.h"
+	<Windows.h>
+
+1587131630 source:c:\users\86178\desktop\4869 - 副1本\sourcecode\src\virusplane.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	"virusplane.h"
+	"List.h"
+	<stdio.h>
+
+1585106810 source:c:\users\86136\desktop\aptx4869\sourcecode\icon.rc
+
+1587131630 source:c:\users\86136\desktop\aptx4869\sourcecode\src\listx.cpp
+	"CommonAPI.h"
+	"List.h"
+	"virusplane.h"
+	<stdio.h>
+
+1585106810 c:\users\86136\desktop\aptx4869\sourcecode\header\commonapi.h
+	<windows.h>
+
+1587131636 c:\users\86136\desktop\aptx4869\sourcecode\header\list.h
+	<windows.h>
+	"CommonAPI.h"
+	"virusplane.h"
+
+1587131597 c:\users\86136\desktop\aptx4869\sourcecode\header\virusplane.h
+	"scenseX.h"
+	<Windows.h>
+
+1587135477 c:\users\86136\desktop\aptx4869\sourcecode\header\scensex.h
+	<Windows.h>
+
+1585106810 source:c:\users\86136\desktop\aptx4869\sourcecode\src\main.cpp
+	"CommonAPI.h"
+	"scenseX.h"
+
+1587176870 source:c:\users\86136\desktop\aptx4869\sourcecode\src\scense1.cpp
+	"CommonAPI.h"
+	"scenseX.h"
+	<stdio.h>
+
+1587176870 source:c:\users\86136\desktop\aptx4869\sourcecode\src\scense2.cpp
+	"CommonAPI.h"
+	"scenseX.h"
+	<stdio.h>
+
+1587176870 source:c:\users\86136\desktop\aptx4869\sourcecode\src\scense3.cpp
+	"CommonAPI.h"
+	"scenseX.h"
+	<stdio.h>
+
+1587136577 source:c:\users\86136\desktop\aptx4869\sourcecode\src\scense4.cpp
+	"CommonAPI.h"
+	"scenseX.h"
+	"stdio.h"
+
+1587177022 source:c:\users\86136\desktop\aptx4869\sourcecode\src\scensex.cpp
+	"scenseX.h"
+	<Stdio.h>
+	"CommonAPI.h"
+	"string.h"
+	"List.h"
+	"Virusplane.h"
+
+1587131630 source:c:\users\86136\desktop\aptx4869\sourcecode\src\virusplane.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	"virusplane.h"
+	"List.h"
+	<stdio.h>
+
+1587131737 c:\users\86136\desktop\aptx4869\sourcecode\header\scense0.h
+	"scenseX.h"
+
+1585106810 source:c:\users\86178\desktop\t1 nb\sourcecode\icon.rc
+
+1587131630 source:c:\users\86178\desktop\t1 nb\sourcecode\src\listx.cpp
+	"CommonAPI.h"
+	"List.h"
+	"virusplane.h"
+	<stdio.h>
+
+1585106810 c:\users\86178\desktop\t1 nb\sourcecode\header\commonapi.h
+	<windows.h>
+
+1587131636 c:\users\86178\desktop\t1 nb\sourcecode\header\list.h
+	<windows.h>
+	"CommonAPI.h"
+	"virusplane.h"
+
+1587131597 c:\users\86178\desktop\t1 nb\sourcecode\header\virusplane.h
+	"scenseX.h"
+	<Windows.h>
+
+1587135477 c:\users\86178\desktop\t1 nb\sourcecode\header\scensex.h
+	<Windows.h>
+
+1585106810 source:c:\users\86178\desktop\t1 nb\sourcecode\src\main.cpp
+	"CommonAPI.h"
+	"scenseX.h"
+
+1587176870 source:c:\users\86178\desktop\t1 nb\sourcecode\src\scense1.cpp
+	"CommonAPI.h"
+	"scenseX.h"
+	<stdio.h>
+
+1587183419 source:c:\users\86178\desktop\t1 nb\sourcecode\src\scense2.cpp
+	"CommonAPI.h"
+	"scenseX.h"
+	<stdio.h>
+
+1587176870 source:c:\users\86178\desktop\t1 nb\sourcecode\src\scense3.cpp
+	"CommonAPI.h"
+	"scenseX.h"
+	<stdio.h>
+
+1587182156 source:c:\users\86178\desktop\t1 nb\sourcecode\src\scense4.cpp
+	"CommonAPI.h"
+	"scenseX.h"
+	"stdio.h"
+
+1587131630 source:c:\users\86178\desktop\t1 nb\sourcecode\src\virusplane.cpp
+	"CommonAPI.h"
+	"scense0.h"
+	"virusplane.h"
+	"List.h"
+	<stdio.h>
+
+1587131737 c:\users\86178\desktop\t1 nb\sourcecode\header\scense0.h
+	"scenseX.h"
+
+1587183419 source:c:\users\86178\desktop\t1 nb\sourcecode\src\scensex.cpp
+	"scenseX.h"
+	<Stdio.h>
+	"CommonAPI.h"
+	"string.h"
+	"List.h"
+	"Virusplane.h"
+
+1585106810 source:c:\users\86178\desktop\siverbullet\sourcecode\icon.rc
+
+1587131630 source:c:\users\86178\desktop\siverbullet\sourcecode\src\listx.cpp
+	"CommonAPI.h"
+	"List.h"
+	"virusplane.h"
+	<stdio.h>
+
+1585106810 c:\users\86178\desktop\siverbullet\sourcecode\header\commonapi.h
+	<windows.h>
+
+1587131636 c:\users\86178\desktop\siverbullet\sourcecode\header\list.h
+	<windows.h>
+	"CommonAPI.h"
+	"virusplane.h"
+
+1587212565 c:\users\86178\desktop\siverbullet\sourcecode\header\virusplane.h
+	"scenseX.h"
+	<Windows.h>
+
+1587212613 c:\users\86178\desktop\siverbullet\sourcecode\header\scensex.h
+	<Windows.h>
+
+1585106810 source:c:\users\86178\desktop\siverbullet\sourcecode\src\main.cpp
+	"CommonAPI.h"
+	"scenseX.h"
+
+1587212884 source:c:\users\86178\desktop\siverbullet\sourcecode\src\scense1.cpp
+	"CommonAPI.h"
+	"scenseX.h"
+	<stdio.h>
+
+1587212884 source:c:\users\86178\desktop\siverbullet\sourcecode\src\scense2.cpp
+	"CommonAPI.h"
+	"scenseX.h"
+	<stdio.h>
+
+1587176870 source:c:\users\86178\desktop\siverbullet\sourcecode\src\scense3.cpp
+	"CommonAPI.h"
+	"scenseX.h"
+	<stdio.h>
+
+1587212884 source:c:\users\86178\desktop\siverbullet\sourcecode\src\scense4.cpp
+	"CommonAPI.h"
+	"scenseX.h"
+	"stdio.h"
+
+1587212357 source:c:\users\86178\desktop\siverbullet\sourcecode\src\virusplane.cpp
+	"CommonAPI.h"
+	"virusplane.h"
+	"List.h"
+	<stdio.h>
+
+1587131737 c:\users\86178\desktop\siverbullet\sourcecode\header\scense0.h
+	"scenseX.h"
+
+1587212884 source:c:\users\86178\desktop\siverbullet\sourcecode\src\scensex.cpp
+	"scenseX.h"
+	<Stdio.h>
+	"CommonAPI.h"
+	"string.h"
+	"List.h"
+	"Virusplane.h"
+
+1585106810 source:c:\users\86178\desktop\last but most\sourcecode\icon.rc
+
+1587131630 source:c:\users\86178\desktop\last but most\sourcecode\src\listx.cpp
+	"CommonAPI.h"
+	"List.h"
+	"virusplane.h"
+	<stdio.h>
+
+1585106810 c:\users\86178\desktop\last but most\sourcecode\header\commonapi.h
+	<windows.h>
+
+1587131636 c:\users\86178\desktop\last but most\sourcecode\header\list.h
+	<windows.h>
+	"CommonAPI.h"
+	"virusplane.h"
+
+1587212565 c:\users\86178\desktop\last but most\sourcecode\header\virusplane.h
+	"scenseX.h"
+	<Windows.h>
+
+1587212613 c:\users\86178\desktop\last but most\sourcecode\header\scensex.h
+	<Windows.h>
+
+1585106810 source:c:\users\86178\desktop\last but most\sourcecode\src\main.cpp
+	"CommonAPI.h"
+	"scenseX.h"
+
+1587212884 source:c:\users\86178\desktop\last but most\sourcecode\src\scense1.cpp
+	"CommonAPI.h"
+	"scenseX.h"
+	<stdio.h>
+
+1587212884 source:c:\users\86178\desktop\last but most\sourcecode\src\scense2.cpp
+	"CommonAPI.h"
+	"scenseX.h"
+	<stdio.h>
+
+1587212997 source:c:\users\86178\desktop\last but most\sourcecode\src\scense3.cpp
+	"CommonAPI.h"
+	"scenseX.h"
+	<stdio.h>
+
+1587212884 source:c:\users\86178\desktop\last but most\sourcecode\src\scense4.cpp
+	"CommonAPI.h"
+	"scenseX.h"
+	"stdio.h"
+
+1587212357 source:c:\users\86178\desktop\last but most\sourcecode\src\virusplane.cpp
+	"CommonAPI.h"
+	"virusplane.h"
+	"List.h"
+	<stdio.h>
+
+1585106810 source:c:\users\86178\desktop\小水滴回家\sourcecode\icon.rc
+
+1587131630 source:c:\users\86178\desktop\小水滴回家\sourcecode\src\listx.cpp
+	"CommonAPI.h"
+	"List.h"
+	"virusplane.h"
+	<stdio.h>
+
+1585106810 c:\users\86178\desktop\小水滴回家\sourcecode\header\commonapi.h
+	<windows.h>
+
+1587131636 c:\users\86178\desktop\小水滴回家\sourcecode\header\list.h
+	<windows.h>
+	"CommonAPI.h"
+	"virusplane.h"
+
+1587212565 c:\users\86178\desktop\小水滴回家\sourcecode\header\virusplane.h
+	"scenseX.h"
+	<Windows.h>
+
+1587212613 c:\users\86178\desktop\小水滴回家\sourcecode\header\scensex.h
+	<Windows.h>
+
+1585106810 source:c:\users\86178\desktop\小水滴回家\sourcecode\src\main.cpp
+	"CommonAPI.h"
+	"scenseX.h"
+
+1587212884 source:c:\users\86178\desktop\小水滴回家\sourcecode\src\scense1.cpp
+	"CommonAPI.h"
+	"scenseX.h"
+	<stdio.h>
+
+1587212884 source:c:\users\86178\desktop\小水滴回家\sourcecode\src\scense2.cpp
+	"CommonAPI.h"
+	"scenseX.h"
+	<stdio.h>
+
+1587212997 source:c:\users\86178\desktop\小水滴回家\sourcecode\src\scense3.cpp
+	"CommonAPI.h"
+	"scenseX.h"
+	<stdio.h>
+
+1587212884 source:c:\users\86178\desktop\小水滴回家\sourcecode\src\scense4.cpp
+	"CommonAPI.h"
+	"scenseX.h"
+	"stdio.h"
+
+1587219294 source:c:\users\86178\desktop\小水滴回家\sourcecode\src\virusplane.cpp
+	"CommonAPI.h"
+	"virusplane.h"
+	"List.h"
+	<stdio.h>
+
+1585106810 source:c:\users\86178\desktop\小水滴回家0\sourcecode\icon.rc
+
+1587131630 source:c:\users\86178\desktop\小水滴回家0\sourcecode\src\listx.cpp
+	"CommonAPI.h"
+	"List.h"
+	"virusplane.h"
+	<stdio.h>
+
+1585106810 c:\users\86178\desktop\小水滴回家0\sourcecode\header\commonapi.h
+	<windows.h>
+
+1587131636 c:\users\86178\desktop\小水滴回家0\sourcecode\header\list.h
+	<windows.h>
+	"CommonAPI.h"
+	"virusplane.h"
+
+1587212565 c:\users\86178\desktop\小水滴回家0\sourcecode\header\virusplane.h
+	"scenseX.h"
+	<Windows.h>
+
+1587212613 c:\users\86178\desktop\小水滴回家0\sourcecode\header\scensex.h
+	<Windows.h>
+
+1585106810 source:c:\users\86178\desktop\小水滴回家0\sourcecode\src\main.cpp
+	"CommonAPI.h"
+	"scenseX.h"
+
+1587212884 source:c:\users\86178\desktop\小水滴回家0\sourcecode\src\scense1.cpp
+	"CommonAPI.h"
+	"scenseX.h"
+	<stdio.h>
+
+1587222525 source:c:\users\86178\desktop\小水滴回家0\sourcecode\src\scense2.cpp
+	"CommonAPI.h"
+	"scenseX.h"
+	<stdio.h>
+
+1587212997 source:c:\users\86178\desktop\小水滴回家0\sourcecode\src\scense3.cpp
+	"CommonAPI.h"
+	"scenseX.h"
+	<stdio.h>
+
+1587212884 source:c:\users\86178\desktop\小水滴回家0\sourcecode\src\scense4.cpp
+	"CommonAPI.h"
+	"scenseX.h"
+	"stdio.h"
+
+1587219294 source:c:\users\86178\desktop\小水滴回家0\sourcecode\src\virusplane.cpp
+	"CommonAPI.h"
+	"virusplane.h"
+	"List.h"
+	<stdio.h>
+
+1587222727 source:c:\users\86178\desktop\小水滴回家0\sourcecode\src\scensex.cpp
+	"scenseX.h"
+	<Stdio.h>
+	"CommonAPI.h"
+	"string.h"
+	"List.h"
+	"Virusplane.h"
+
+1585106810 source:c:\users\86136\desktop\小水滴回家_杨彬_吕成龙_陈子璇_白一诺_源代码\sourcecode\icon.rc
+
+1587131630 source:c:\users\86136\desktop\小水滴回家_杨彬_吕成龙_陈子璇_白一诺_源代码\sourcecode\src\listx.cpp
+	"CommonAPI.h"
+	"List.h"
+	"virusplane.h"
+	<stdio.h>
+
+1585106810 c:\users\86136\desktop\小水滴回家_杨彬_吕成龙_陈子璇_白一诺_源代码\sourcecode\header\commonapi.h
+	<windows.h>
+
+1587131636 c:\users\86136\desktop\小水滴回家_杨彬_吕成龙_陈子璇_白一诺_源代码\sourcecode\header\list.h
+	<windows.h>
+	"CommonAPI.h"
+	"virusplane.h"
+
+1587212565 c:\users\86136\desktop\小水滴回家_杨彬_吕成龙_陈子璇_白一诺_源代码\sourcecode\header\virusplane.h
+	"scenseX.h"
+	<Windows.h>
+
+1587212613 c:\users\86136\desktop\小水滴回家_杨彬_吕成龙_陈子璇_白一诺_源代码\sourcecode\header\scensex.h
+	<Windows.h>
+
+1585106810 source:c:\users\86136\desktop\小水滴回家_杨彬_吕成龙_陈子璇_白一诺_源代码\sourcecode\src\main.cpp
+	"CommonAPI.h"
+	"scenseX.h"
+
+1587212884 source:c:\users\86136\desktop\小水滴回家_杨彬_吕成龙_陈子璇_白一诺_源代码\sourcecode\src\scense1.cpp
+	"CommonAPI.h"
+	"scenseX.h"
+	<stdio.h>
+
+1587222525 source:c:\users\86136\desktop\小水滴回家_杨彬_吕成龙_陈子璇_白一诺_源代码\sourcecode\src\scense2.cpp
+	"CommonAPI.h"
+	"scenseX.h"
+	<stdio.h>
+
+1587212997 source:c:\users\86136\desktop\小水滴回家_杨彬_吕成龙_陈子璇_白一诺_源代码\sourcecode\src\scense3.cpp
+	"CommonAPI.h"
+	"scenseX.h"
+	<stdio.h>
+
+1587212884 source:c:\users\86136\desktop\小水滴回家_杨彬_吕成龙_陈子璇_白一诺_源代码\sourcecode\src\scense4.cpp
+	"CommonAPI.h"
+	"scenseX.h"
+	"stdio.h"
+
+1591885084 source:c:\users\86136\desktop\小水滴回家_杨彬_吕成龙_陈子璇_白一诺_源代码\sourcecode\src\scensex.cpp
+	"scenseX.h"
+	<Stdio.h>
+	"CommonAPI.h"
+	"string.h"
+	"List.h"
+	"Virusplane.h"
+
+1587219294 source:c:\users\86136\desktop\小水滴回家_杨彬_吕成龙_陈子璇_白一诺_源代码\sourcecode\src\virusplane.cpp
+	"CommonAPI.h"
+	"virusplane.h"
+	"List.h"
+	<stdio.h>
+
+1585106810 source:c:\users\86178\desktop\122222\sourcecode\icon.rc
+
+1587131630 source:c:\users\86178\desktop\122222\sourcecode\src\listx.cpp
+	"CommonAPI.h"
+	"List.h"
+	"virusplane.h"
+	<stdio.h>
+
+1585106810 c:\users\86178\desktop\122222\sourcecode\header\commonapi.h
+	<windows.h>
+
+1587131636 c:\users\86178\desktop\122222\sourcecode\header\list.h
+	<windows.h>
+	"CommonAPI.h"
+	"virusplane.h"
+
+1587212565 c:\users\86178\desktop\122222\sourcecode\header\virusplane.h
+	"scenseX.h"
+	<Windows.h>
+
+1587212613 c:\users\86178\desktop\122222\sourcecode\header\scensex.h
+	<Windows.h>
+
+1585106810 source:c:\users\86178\desktop\122222\sourcecode\src\main.cpp
+	"CommonAPI.h"
+	"scenseX.h"
+
+1587212884 source:c:\users\86178\desktop\122222\sourcecode\src\scense1.cpp
+	"CommonAPI.h"
+	"scenseX.h"
+	<stdio.h>
+
+1591940659 source:c:\users\86178\desktop\122222\sourcecode\src\scense2.cpp
+	"CommonAPI.h"
+	"scenseX.h"
+	<stdio.h>
+
+1587212997 source:c:\users\86178\desktop\122222\sourcecode\src\scense3.cpp
+	"CommonAPI.h"
+	"scenseX.h"
+	<stdio.h>
+
+1587212884 source:c:\users\86178\desktop\122222\sourcecode\src\scense4.cpp
+	"CommonAPI.h"
+	"scenseX.h"
+	"stdio.h"
+
+1591939304 source:c:\users\86178\desktop\122222\sourcecode\src\scensex.cpp
+	"scenseX.h"
+	<Stdio.h>
+	"CommonAPI.h"
+	"string.h"
+	"List.h"
+	"Virusplane.h"
+
+1587219294 source:c:\users\86178\desktop\122222\sourcecode\src\virusplane.cpp
+	"CommonAPI.h"
+	"virusplane.h"
+	"List.h"
+	<stdio.h>
+
+1585106810 source:c:\users\86178\desktop\应该没问题\sourcecode\icon.rc
+
+1587131630 source:c:\users\86178\desktop\应该没问题\sourcecode\src\listx.cpp
+	"CommonAPI.h"
+	"List.h"
+	"virusplane.h"
+	<stdio.h>
+
+1585106810 c:\users\86178\desktop\应该没问题\sourcecode\header\commonapi.h
+	<windows.h>
+
+1587131636 c:\users\86178\desktop\应该没问题\sourcecode\header\list.h
+	<windows.h>
+	"CommonAPI.h"
+	"virusplane.h"
+
+1587212565 c:\users\86178\desktop\应该没问题\sourcecode\header\virusplane.h
+	"scenseX.h"
+	<Windows.h>
+
+1587212613 c:\users\86178\desktop\应该没问题\sourcecode\header\scensex.h
+	<Windows.h>
+
+1585106810 source:c:\users\86178\desktop\应该没问题\sourcecode\src\main.cpp
+	"CommonAPI.h"
+	"scenseX.h"
+
+1587212884 source:c:\users\86178\desktop\应该没问题\sourcecode\src\scense1.cpp
+	"CommonAPI.h"
+	"scenseX.h"
+	<stdio.h>
+
+1592113116 source:c:\users\86178\desktop\应该没问题\sourcecode\src\scense2.cpp
+	"CommonAPI.h"
+	"scenseX.h"
+	<stdio.h>
+
+1587212997 source:c:\users\86178\desktop\应该没问题\sourcecode\src\scense3.cpp
+	"CommonAPI.h"
+	"scenseX.h"
+	<stdio.h>
+
+1587212884 source:c:\users\86178\desktop\应该没问题\sourcecode\src\scense4.cpp
+	"CommonAPI.h"
+	"scenseX.h"
+	"stdio.h"
+
+1592112600 source:c:\users\86178\desktop\应该没问题\sourcecode\src\scensex.cpp
+	"scenseX.h"
+	<Stdio.h>
+	"CommonAPI.h"
+	"string.h"
+	"List.h"
+	"Virusplane.h"
+
+1587219294 source:c:\users\86178\desktop\应该没问题\sourcecode\src\virusplane.cpp
+	"CommonAPI.h"
+	"virusplane.h"
+	"List.h"
+	<stdio.h>
+

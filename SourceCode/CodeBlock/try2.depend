@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1420212242 source:c:\program files (x86)\funcode\games\try2\sourcecode\icon.rc
+
+1583907410 source:c:\program files (x86)\funcode\games\try2\sourcecode\src\main.cpp
+	"CommonAPI.h"
+	"LessonX.h"
+
+1583893091 c:\program files (x86)\funcode\games\try2\sourcecode\header\commonapi.h
+	<windows.h>
+
+1583907410 c:\program files (x86)\funcode\games\try2\sourcecode\header\lessonx.h
+	<Windows.h>
+
+1583908730 source:c:\program files (x86)\funcode\games\try2\sourcecode\src\lessonx.cpp
+	<Stdio.h>
+	"CommonAPI.h"
+	"LessonX.h"
+
+1420212242 source:c:\users\86178\desktop\try2\sourcecode\icon.rc
+
+1583940952 source:c:\users\86178\desktop\try2\sourcecode\src\lessonx.cpp
+	<Stdio.h>
+	"CommonAPI.h"
+	"LessonX.h"
+
+1583893091 c:\users\86178\desktop\try2\sourcecode\header\commonapi.h
+	<windows.h>
+
+1583935227 c:\users\86178\desktop\try2\sourcecode\header\lessonx.h
+	<Windows.h>
+
+1583907410 source:c:\users\86178\desktop\try2\sourcecode\src\main.cpp
+	"CommonAPI.h"
+	"LessonX.h"
+
